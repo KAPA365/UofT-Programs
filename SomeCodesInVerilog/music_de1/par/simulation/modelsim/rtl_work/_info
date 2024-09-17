@@ -1,0 +1,543 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/altera/quar/q2/23/12/music_de1/par/simulation/modelsim
+T_opt
+!s110 1701664341
+V9VBnAf7oXbA?5FmN2E_AM0
+04 10 4 work fsm_ctl_tb fast 0
+=8-6c4b90f6b64d-656d5655-189-2244
+o-quiet -auto_acc_if_foreign -work work -L altera -L lpm -L sgate -L altera_mf -L altera_lnsim -L cyclonev -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work +acc
+n@_opt
+OL;O;10.4;61
+R0
+vadio_codec
+Z1 !s110 1701661970
+!i10b 1
+!s100 RAVGm7H4UJn>ZDUIPN@Xn1
+I><M6WamdU:[lg2L[ekd321
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1701612464
+8D:/altera/quar/q2/23/12/music_de1/rtl/WM8731/adio_codec.v
+FD:/altera/quar/q2/23/12/music_de1/rtl/WM8731/adio_codec.v
+L0 1
+Z3 OL;L;10.4;61
+r1
+!s85 0
+31
+!s108 1701661970.908000
+!s107 D:/altera/quar/q2/23/12/music_de1/rtl/WM8731/adio_codec.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/altera/quar/q2/23/12/music_de1/rtl/WM8731|D:/altera/quar/q2/23/12/music_de1/rtl/WM8731/adio_codec.v|
+!i113 0
+Z4 o-vlog01compat -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z5 !s92 -vlog01compat -work work +incdir+D:/altera/quar/q2/23/12/music_de1/rtl/WM8731 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vAltera_UP_PS2_Command_Out
+R1
+!i10b 1
+!s100 ZjDIV:z^W4aE7ECD]ReVK0
+Im>XhY^i^_EU1VdPeYVI6F1
+R2
+R0
+Z6 w1163080514
+8D:/altera/quar/q2/23/12/music_de1/rtl/PS2_Controller/Altera_UP_PS2_Command_Out.v
+FD:/altera/quar/q2/23/12/music_de1/rtl/PS2_Controller/Altera_UP_PS2_Command_Out.v
+Z7 L0 10
+R3
+r1
+!s85 0
+31
+!s108 1701661970.576000
+!s107 D:/altera/quar/q2/23/12/music_de1/rtl/PS2_Controller/Altera_UP_PS2_Command_Out.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/altera/quar/q2/23/12/music_de1/rtl/PS2_Controller|D:/altera/quar/q2/23/12/music_de1/rtl/PS2_Controller/Altera_UP_PS2_Command_Out.v|
+!i113 0
+R4
+Z8 !s92 -vlog01compat -work work +incdir+D:/altera/quar/q2/23/12/music_de1/rtl/PS2_Controller -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+n@altera_@u@p_@p@s2_@command_@out
+vAltera_UP_PS2_Data_In
+R1
+!i10b 1
+!s100 ee^TmQcGZ[E_>UMojW[Zg0
+I;?Jo:[UmN>mIiT@FE@]J;0
+R2
+R0
+R6
+8D:/altera/quar/q2/23/12/music_de1/rtl/PS2_Controller/Altera_UP_PS2_Data_In.v
+FD:/altera/quar/q2/23/12/music_de1/rtl/PS2_Controller/Altera_UP_PS2_Data_In.v
+R7
+R3
+r1
+!s85 0
+31
+!s108 1701661970.498000
+!s107 D:/altera/quar/q2/23/12/music_de1/rtl/PS2_Controller/Altera_UP_PS2_Data_In.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/altera/quar/q2/23/12/music_de1/rtl/PS2_Controller|D:/altera/quar/q2/23/12/music_de1/rtl/PS2_Controller/Altera_UP_PS2_Data_In.v|
+!i113 0
+R4
+R8
+n@altera_@u@p_@p@s2_@data_@in
+vaudio_8731_top
+R1
+!i10b 1
+!s100 gic`Ga@b0oeAIL9@9dI040
+I026=FZ_gekW4c7k^6zEkI2
+R2
+R0
+w1701614818
+8D:/altera/quar/q2/23/12/music_de1/rtl/WM8731/audio_8731_top.v
+FD:/altera/quar/q2/23/12/music_de1/rtl/WM8731/audio_8731_top.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1701661970.841000
+!s107 D:/altera/quar/q2/23/12/music_de1/rtl/WM8731/audio_8731_top.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/altera/quar/q2/23/12/music_de1/rtl/WM8731|D:/altera/quar/q2/23/12/music_de1/rtl/WM8731/audio_8731_top.v|
+!i113 0
+R4
+R5
+vclk_gen
+Z9 !s110 1701661969
+!i10b 1
+!s100 _8Xe?F[YEk98A0dzTDLY:3
+IE]]lXk<Rj1a76V=0AI@8l3
+R2
+R0
+w1701563366
+8D:/altera/quar/q2/23/12/music_de1/par/clk_gen_sim/clk_gen.vo
+FD:/altera/quar/q2/23/12/music_de1/par/clk_gen_sim/clk_gen.vo
+Z10 L0 31
+R3
+r1
+!s85 0
+31
+!s108 1701661969.683000
+!s107 D:/altera/quar/q2/23/12/music_de1/par/clk_gen_sim/clk_gen.vo|
+!s90 -reportprogress|300|D:/altera/quar/q2/23/12/music_de1/par/clk_gen_sim/clk_gen.vo|
+!i113 0
+Z11 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vfsm_ctl
+!s110 1701664363
+!i10b 1
+!s100 nfN<6JnUPRJTzYOI4g4M`1
+ILi2^4SNhN8jaljKh<I@NQ0
+R2
+R0
+w1701664329
+8D:/altera/quar/q2/23/12/music_de1/rtl/fsm_ctl.v
+FD:/altera/quar/q2/23/12/music_de1/rtl/fsm_ctl.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1701664363.114000
+!s107 D:/altera/quar/q2/23/12/music_de1/rtl/fsm_ctl.v|
+!s90 -reportprogress|300|-work|work|D:/altera/quar/q2/23/12/music_de1/rtl/fsm_ctl.v|
+!i113 0
+Z12 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vfsm_ctl_tb
+!s110 1701664240
+!i10b 1
+!s100 _Z2]`:n@jA@6oKzImF=Mh2
+Im:D<gj:U`U65g;B_<QBB41
+R2
+R0
+w1701663340
+8D:/altera/quar/q2/23/12/music_de1/tb/fsm_ctl_tb.v
+FD:/altera/quar/q2/23/12/music_de1/tb/fsm_ctl_tb.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1701664240.158000
+!s107 D:/altera/quar/q2/23/12/music_de1/tb/fsm_ctl_tb.v|
+!s90 -reportprogress|300|-work|work|D:/altera/quar/q2/23/12/music_de1/tb/fsm_ctl_tb.v|
+!i113 0
+R12
+vI2C_AV_Config
+R1
+!i10b 1
+!s100 66IUa;P^k8[OSdj3QHeS^3
+IOKVVnoiA?55daM]zdc=PR3
+R2
+R0
+w1701604560
+8D:/altera/quar/q2/23/12/music_de1/rtl/WM8731/I2C_AV_Config.v
+FD:/altera/quar/q2/23/12/music_de1/rtl/WM8731/I2C_AV_Config.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1701661970.763000
+!s107 D:/altera/quar/q2/23/12/music_de1/rtl/WM8731/I2C_AV_Config.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/altera/quar/q2/23/12/music_de1/rtl/WM8731|D:/altera/quar/q2/23/12/music_de1/rtl/WM8731/I2C_AV_Config.v|
+!i113 0
+R4
+R5
+n@i2@c_@a@v_@config
+vI2C_Controller
+R1
+!i10b 1
+!s100 7;dORkQk<@DYn;ANe=9_<2
+IV>[CDo_VN@n29`RaOl;n[0
+R2
+R0
+w1354691258
+8D:/altera/quar/q2/23/12/music_de1/rtl/WM8731/I2C_Controller.v
+FD:/altera/quar/q2/23/12/music_de1/rtl/WM8731/I2C_Controller.v
+L0 42
+R3
+r1
+!s85 0
+31
+!s108 1701661970.685000
+!s107 D:/altera/quar/q2/23/12/music_de1/rtl/WM8731/I2C_Controller.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/altera/quar/q2/23/12/music_de1/rtl/WM8731|D:/altera/quar/q2/23/12/music_de1/rtl/WM8731/I2C_Controller.v|
+!i113 0
+R4
+R5
+n@i2@c_@controller
+vmusic_hz
+R1
+!i10b 1
+!s100 WJ0Kc8Z172=2[1i:>1R]K3
+I>e96>gi[72Z@XS_fUAPTQ3
+R2
+R0
+w1701656462
+8D:/altera/quar/q2/23/12/music_de1/rtl/music/music_hz.v
+FD:/altera/quar/q2/23/12/music_de1/rtl/music/music_hz.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1701661970.326000
+!s107 D:/altera/quar/q2/23/12/music_de1/rtl/music/music_hz.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/altera/quar/q2/23/12/music_de1/rtl/music|D:/altera/quar/q2/23/12/music_de1/rtl/music/music_hz.v|
+!i113 0
+R4
+Z13 !s92 -vlog01compat -work work +incdir+D:/altera/quar/q2/23/12/music_de1/rtl/music -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vmusic_rom0_t
+R9
+!i10b 1
+!s100 UaFVikTTJ3D;Mne1_cQGH3
+IaIlEURg>YJF`:?Pmn?W8A1
+R2
+R0
+w1701661918
+8D:/altera/quar/q2/23/12/music_de1/rtl/rom/music_rom0_t.v
+FD:/altera/quar/q2/23/12/music_de1/rtl/rom/music_rom0_t.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1701661969.903000
+!s107 D:/altera/quar/q2/23/12/music_de1/rtl/rom/music_rom0_t.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/altera/quar/q2/23/12/music_de1/rtl/rom|D:/altera/quar/q2/23/12/music_de1/rtl/rom/music_rom0_t.v|
+!i113 0
+R4
+Z14 !s92 -vlog01compat -work work +incdir+D:/altera/quar/q2/23/12/music_de1/rtl/rom -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vmusic_time_rom0_t
+R9
+!i10b 1
+!s100 jEF>;zC9=1Kl@_fSeigR@0
+I4?;h1`iX:1IOf]b1Lz]7_1
+R2
+R0
+w1701661910
+8D:/altera/quar/q2/23/12/music_de1/rtl/rom/music_time_rom0_t.v
+FD:/altera/quar/q2/23/12/music_de1/rtl/rom/music_time_rom0_t.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1701661969.825000
+!s107 D:/altera/quar/q2/23/12/music_de1/rtl/rom/music_time_rom0_t.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/altera/quar/q2/23/12/music_de1/rtl/rom|D:/altera/quar/q2/23/12/music_de1/rtl/rom/music_time_rom0_t.v|
+!i113 0
+R4
+R14
+vmusic_top0
+!s110 1701663252
+!i10b 1
+!s100 ?WX]lMd;EiT@]8Q2Dk7TL2
+Iga`GcnL>NKW;]WBD8BzB01
+R2
+R0
+w1701663249
+8D:/altera/quar/q2/23/12/music_de1/rtl/music/music_top0.v
+FD:/altera/quar/q2/23/12/music_de1/rtl/music/music_top0.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1701663252.981000
+!s107 D:/altera/quar/q2/23/12/music_de1/rtl/music/music_top0.v|
+!s90 -reportprogress|300|-work|work|D:/altera/quar/q2/23/12/music_de1/rtl/music/music_top0.v|
+!i113 0
+R12
+vmusic_top1
+!s110 1701663253
+!i10b 1
+!s100 R=0<=Z[_[chENY[[j50B=2
+I_K4iWX3oSPC@@POO@Ra4Y3
+R2
+R0
+w1701660141
+8D:/altera/quar/q2/23/12/music_de1/rtl/music/music_top1.v
+FD:/altera/quar/q2/23/12/music_de1/rtl/music/music_top1.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1701663253.700000
+!s107 D:/altera/quar/q2/23/12/music_de1/rtl/music/music_top1.v|
+!s90 -reportprogress|300|-work|work|D:/altera/quar/q2/23/12/music_de1/rtl/music/music_top1.v|
+!i113 0
+R12
+vmusic_top2
+R1
+!i10b 1
+!s100 mYTALSNL`6YOagTg07@:E2
+II>7Fd:h]67CYgWgD<L>fQ2
+R2
+R0
+w1701660160
+8D:/altera/quar/q2/23/12/music_de1/rtl/music/music_top2.v
+FD:/altera/quar/q2/23/12/music_de1/rtl/music/music_top2.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1701661970.060000
+!s107 D:/altera/quar/q2/23/12/music_de1/rtl/music/music_top2.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/altera/quar/q2/23/12/music_de1/rtl/music|D:/altera/quar/q2/23/12/music_de1/rtl/music/music_top2.v|
+!i113 0
+R4
+R13
+vmusic_top3
+R9
+!i10b 1
+!s100 ST0Hg=2TB_3bY2NP=a:f?1
+IRY3KZ>WOZ?YoPlZXY0CGI3
+R2
+R0
+w1701660166
+8D:/altera/quar/q2/23/12/music_de1/rtl/music/music_top3.v
+FD:/altera/quar/q2/23/12/music_de1/rtl/music/music_top3.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1701661969.981000
+!s107 D:/altera/quar/q2/23/12/music_de1/rtl/music/music_top3.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/altera/quar/q2/23/12/music_de1/rtl/music|D:/altera/quar/q2/23/12/music_de1/rtl/music/music_top3.v|
+!i113 0
+R4
+R13
+vpll
+R9
+!i10b 1
+!s100 Vc[CTSCgk2=F6N5NTC^Bd2
+I2UQWdH@JSfbzPel7fFJ^M0
+R2
+R0
+w1701564156
+8D:/altera/quar/q2/23/12/music_de1/par/pll_sim/pll.vo
+FD:/altera/quar/q2/23/12/music_de1/par/pll_sim/pll.vo
+R10
+R3
+r1
+!s85 0
+31
+!s108 1701661969.745000
+!s107 D:/altera/quar/q2/23/12/music_de1/par/pll_sim/pll.vo|
+!s90 -reportprogress|300|D:/altera/quar/q2/23/12/music_de1/par/pll_sim/pll.vo|
+!i113 0
+R11
+vPS2_Controller
+R1
+!i10b 1
+!s100 FTmT;3aZZeZAY35heFV[T0
+IEiM5]YDh@9U`megf95fD50
+R2
+R0
+w1701659780
+8D:/altera/quar/q2/23/12/music_de1/rtl/PS2_Controller/PS2_Controller.v
+FD:/altera/quar/q2/23/12/music_de1/rtl/PS2_Controller/PS2_Controller.v
+L0 9
+R3
+r1
+!s85 0
+31
+!s108 1701661970.404000
+!s107 D:/altera/quar/q2/23/12/music_de1/rtl/PS2_Controller/PS2_Controller.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/altera/quar/q2/23/12/music_de1/rtl/PS2_Controller|D:/altera/quar/q2/23/12/music_de1/rtl/PS2_Controller/PS2_Controller.v|
+!i113 0
+R4
+R8
+n@p@s2_@controller
+vseg7
+Z15 !s110 1701661971
+!i10b 1
+!s100 ;Q4jRNBYdm4;CL@iD:i5P2
+I0D>eP>VX68AC7lanZ6H5@2
+R2
+R0
+w1681366432
+8D:/altera/quar/q2/23/12/music_de1/rtl/seg7.v
+FD:/altera/quar/q2/23/12/music_de1/rtl/seg7.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1701661971.331000
+!s107 D:/altera/quar/q2/23/12/music_de1/rtl/seg7.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/altera/quar/q2/23/12/music_de1/rtl|D:/altera/quar/q2/23/12/music_de1/rtl/seg7.v|
+!i113 0
+R4
+Z16 !s92 -vlog01compat -work work +incdir+D:/altera/quar/q2/23/12/music_de1/rtl -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vtop
+R15
+!i10b 1
+!s100 >:n@ONzA0O;G<jaCik`Lb1
+I3YFlQN?a=6N?4:L89J4EQ3
+R2
+R0
+w1701605172
+8D:/altera/quar/q2/23/12/music_de1/rtl/top.v
+FD:/altera/quar/q2/23/12/music_de1/rtl/top.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1701661971.409000
+!s107 D:/altera/quar/q2/23/12/music_de1/rtl/top.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/altera/quar/q2/23/12/music_de1/rtl|D:/altera/quar/q2/23/12/music_de1/rtl/top.v|
+!i113 0
+R4
+R16
+vvga_display0
+R15
+!i10b 1
+!s100 4=NR1c1A`RalSeYmH1=ni0
+IL2BfdfQIIIe2CDDfcPhkC2
+R2
+R0
+w1701599388
+8D:/altera/quar/q2/23/12/music_de1/rtl/vga_display0.v
+FD:/altera/quar/q2/23/12/music_de1/rtl/vga_display0.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1701661971.252000
+!s107 D:/altera/quar/q2/23/12/music_de1/rtl/vga_display0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/altera/quar/q2/23/12/music_de1/rtl|D:/altera/quar/q2/23/12/music_de1/rtl/vga_display0.v|
+!i113 0
+R4
+R16
+vvga_display1
+R15
+!i10b 1
+!s100 RIF6WB5_Be3;zaUON<eeQ0
+IEU3D^SN<ARBo97Hhh>eNn2
+R2
+R0
+w1701597600
+8D:/altera/quar/q2/23/12/music_de1/rtl/vga_display1.v
+FD:/altera/quar/q2/23/12/music_de1/rtl/vga_display1.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1701661971.174000
+!s107 D:/altera/quar/q2/23/12/music_de1/rtl/vga_display1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/altera/quar/q2/23/12/music_de1/rtl|D:/altera/quar/q2/23/12/music_de1/rtl/vga_display1.v|
+!i113 0
+R4
+R16
+vvga_display2
+R15
+!i10b 1
+!s100 ?i4E<Lk0bJmdfSlXTG@d:2
+IZFXh[@]ac`=5fh26D9z;23
+R2
+R0
+w1701557694
+8D:/altera/quar/q2/23/12/music_de1/rtl/vga_display2.v
+FD:/altera/quar/q2/23/12/music_de1/rtl/vga_display2.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1701661971.111000
+!s107 D:/altera/quar/q2/23/12/music_de1/rtl/vga_display2.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/altera/quar/q2/23/12/music_de1/rtl|D:/altera/quar/q2/23/12/music_de1/rtl/vga_display2.v|
+!i113 0
+R4
+R16
+vvga_display3
+R15
+!i10b 1
+!s100 f7dWobz1^ZM8`k=SmU=fT1
+I6U`e@d`^Z9E`Ph8fnf>@c1
+R2
+R0
+w1701606170
+8D:/altera/quar/q2/23/12/music_de1/rtl/vga_display3.v
+FD:/altera/quar/q2/23/12/music_de1/rtl/vga_display3.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1701661971.033000
+!s107 D:/altera/quar/q2/23/12/music_de1/rtl/vga_display3.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/altera/quar/q2/23/12/music_de1/rtl|D:/altera/quar/q2/23/12/music_de1/rtl/vga_display3.v|
+!i113 0
+R4
+R16
+vvga_driver
+R15
+!i10b 1
+!s100 CC<i4U=AB=h1KX6bdMfYn1
+ISY2KGO1nMnWFYz=P:MSmj0
+R2
+R0
+w1683604580
+8D:/altera/quar/q2/23/12/music_de1/rtl/vga_driver.v
+FD:/altera/quar/q2/23/12/music_de1/rtl/vga_driver.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1701661971.549000
+!s107 D:/altera/quar/q2/23/12/music_de1/rtl/vga_driver.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/altera/quar/q2/23/12/music_de1/rtl|D:/altera/quar/q2/23/12/music_de1/rtl/vga_driver.v|
+!i113 0
+R4
+R16

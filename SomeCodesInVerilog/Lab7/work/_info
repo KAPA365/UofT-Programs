@@ -1,0 +1,30 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dW:/Lab7
+vpart1
+!s110 1699996854
+!i10b 1
+!s100 5=<W211b7c1N7USfn[0QI1
+I>17J?[o8T;Q]bl?9N5S@L2
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1699977770
+8part1.v
+Fpart1.v
+L0 39
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1699996853.000000
+!s107 part1.v|
+!s90 -reportprogress|300|-novopt|part1.v|
+!i113 1
+tCvgOpt 0

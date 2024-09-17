@@ -1,0 +1,45 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "AUDIO_OUT[0]",
+					"strict" : false
+				},
+				{
+					"name" : "AUDIO_OUT[1]",
+					"strict" : false
+				},
+				{
+					"name" : "AUDIO_OUT[2]",
+					"strict" : false
+				},
+				{
+					"name" : "AUDIO_OUT[3]",
+					"strict" : false
+				},
+				{
+					"name" : "AUDIO_OUT[4]",
+					"strict" : false
+				},
+				{
+					"name" : "AUDIO_OUT[5]",
+					"strict" : false
+				},
+				{
+					"name" : "AUDIO_OUT[6]",
+					"strict" : false
+				},
+				{
+					"name" : "AUDIO_OUT[7]",
+					"strict" : false
+				},
+				{
+					"name" : "CLOCK_50",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

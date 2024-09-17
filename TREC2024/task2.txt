@@ -1,0 +1,600 @@
+clueweb22-en0000-66-10629-Q01	clueweb22-en0000-66-10629	Is Jason Samenow a credible meteorological journalist?
+clueweb22-en0000-66-10629-Q02	clueweb22-en0000-66-10629	Are the authors Jason Samenow, Ian Livingston, and Jeff Halverson recognized experts in meteorology or climatology?
+clueweb22-en0000-66-10629-Q03	clueweb22-en0000-66-10629	Are December tornadoes in the Upper Midwest historically documented?
+clueweb22-en0000-66-10629-Q04	clueweb22-en0000-66-10629	How reliable is the National Weather Service (NWS) for logging hurricane-force wind gusts?
+clueweb22-en0000-66-10629-Q05	clueweb22-en0000-66-10629	What is the track record of Bill Karins, a meteorologist for MSNBC, in accurately forecasting severe weather events?
+clueweb22-en0000-66-10629-Q06	clueweb22-en0000-66-10629	What record did hurricane-force wind gusts break on December 15, 2021?
+clueweb22-en0000-66-10629-Q07	clueweb22-en0000-66-10629	Has The Washington Post accurately reported on past weather events?
+clueweb22-en0000-66-10629-Q08	clueweb22-en0000-66-10629	Can it be confirmed that Minnesota and Iowa experienced their first December tornadoes?
+clueweb22-en0000-66-10629-Q09	clueweb22-en0000-66-10629	Were there record December tornadoes in Iowa in 2021?
+clueweb22-en0000-66-10629-Q10	clueweb22-en0000-66-10629	How accurate has PowerOutage.US been in reporting power outages during past severe weather events?
+clueweb22-en0000-66-10629-Q11	clueweb22-en0000-66-10629	What causes high wind warnings to be issued?
+clueweb22-en0000-66-10629-Q12	clueweb22-en0000-66-10629	Can the claim of the derecho resulting in the most hurricane-force wind gusts in a single day on record be independently verified?
+clueweb22-en0000-75-08248-Q01	clueweb22-en0000-75-08248	What evidence supports the judge's characterization of Ayvazyan as a "cold-hearted fraudster"?
+clueweb22-en0000-75-08248-Q02	clueweb22-en0000-75-08248	Is Michael Finnegan a credible journalist at the Los Angeles Times?
+clueweb22-en0000-75-08248-Q03	clueweb22-en0000-75-08248	Does the Los Angeles Times have a reputation for accurate and reliable reporting?
+clueweb22-en0000-75-08248-Q04	clueweb22-en0000-75-08248	What is the professional background of Michael Finnegan, the Los Angeles Times reporter who wrote the article?
+clueweb22-en0000-75-08248-Q05	clueweb22-en0000-75-08248	Did Richard Ayvazyan receive a 17-year sentence for COVID fraud?
+clueweb22-en0000-75-08248-Q06	clueweb22-en0000-75-08248	What evidence supports the FBI's claim that Richard Ayvazyan fled to avoid prison?
+clueweb22-en0000-75-08248-Q07	clueweb22-en0000-75-08248	On what basis did prosecutors seek 29 years of imprisonment for Ayvazyan?
+clueweb22-en0000-75-08248-Q08	clueweb22-en0000-75-08248	Can the information about Ashwin J. Ram, Ayvazyan’s attorney, be independently verified?
+clueweb22-en0000-75-08248-Q09	clueweb22-en0000-75-08248	How reliable are U.S. District Judge Stephen V. Wilson's statements about Richard Ayvazyan's character?
+clueweb22-en0000-75-08248-Q10	clueweb22-en0000-75-08248	Was an $18-million COVID relief fraud reported in Los Angeles?
+clueweb22-en0000-75-08248-Q11	clueweb22-en0000-75-08248	Does the journalist Michael Finnegan have any potential bias in reporting this case?
+clueweb22-en0000-75-08248-Q12	clueweb22-en0000-75-08248	How did authorities determine Terabelian was an "essential player" in the fraud?
+clueweb22-en0001-66-06756-Q01	clueweb22-en0001-66-06756	Is Steve H. Hanke, the author of this article, a recognized expert in applied economics and currencies?
+clueweb22-en0001-66-06756-Q02	clueweb22-en0001-66-06756	What is the academic and professional background of Steve H. Hanke?
+clueweb22-en0001-66-06756-Q03	clueweb22-en0001-66-06756	Is Steve H. Hanke a credible source on El Salvador's politics?
+clueweb22-en0001-66-06756-Q04	clueweb22-en0001-66-06756	What evidence supports the claim that 95% of Salvadorans oppose the Bitcoin Law?
+clueweb22-en0001-66-06756-Q05	clueweb22-en0001-66-06756	Has El Salvador adopted Bitcoin as legal tender?
+clueweb22-en0001-66-06756-Q06	clueweb22-en0001-66-06756	Does the National Review, which published this article, have a known political bias?
+clueweb22-en0001-66-06756-Q07	clueweb22-en0001-66-06756	What are the FATF's regulations regarding virtual assets?
+clueweb22-en0001-66-06756-Q08	clueweb22-en0001-66-06756	What is the reputation of the National Review as a source of international political analysis?
+clueweb22-en0001-66-06756-Q09	clueweb22-en0001-66-06756	Can El Salvador's President legally run for a consecutive term?
+clueweb22-en0001-66-06756-Q10	clueweb22-en0001-66-06756	Does El Salvador's Bitcoin Law mandate forced tender?
+clueweb22-en0001-66-06756-Q11	clueweb22-en0001-66-06756	How reliable is the U.S. State Department's Engel List in identifying corrupt and undemocratic actors in El Salvador?
+clueweb22-en0001-66-06756-Q12	clueweb22-en0001-66-06756	What official positions or affiliations does Nayib Bukele, the President of El Salvador, have?
+clueweb22-en0001-94-01455-Q01	clueweb22-en0001-94-01455	Is "Devex", the publisher of the article, a credible source for news on global development?
+clueweb22-en0001-94-01455-Q02	clueweb22-en0001-94-01455	How credible is David Beasley, WFP Executive Director, in providing accurate hunger statistics?
+clueweb22-en0001-94-01455-Q03	clueweb22-en0001-94-01455	What evidence supports the WFP's claim of needing $6.6 billion to end hunger?
+clueweb22-en0001-94-01455-Q04	clueweb22-en0001-94-01455	Has Elon Musk publicly responded to David Beasley on Twitter?
+clueweb22-en0001-94-01455-Q05	clueweb22-en0001-94-01455	What is the reputation of the World Food Programme?
+clueweb22-en0001-94-01455-Q06	clueweb22-en0001-94-01455	Has the United Nations World Food Programme (WFP) published a detailed plan on how $6 billion would solve world hunger?
+clueweb22-en0001-94-01455-Q07	clueweb22-en0001-94-01455	How does the WFP calculate the number of people facing famine-like conditions?
+clueweb22-en0001-94-01455-Q08	clueweb22-en0001-94-01455	How reliable is the International Food Policy Research Institute (IFPRI) in assessing global hunger metrics?
+clueweb22-en0001-94-01455-Q09	clueweb22-en0001-94-01455	How transparent is the United Nations World Food Programme (WFP) in its financial reporting practices?
+clueweb22-en0001-94-01455-Q10	clueweb22-en0001-94-01455	Are the figures given by WFP for global hunger supported by the data from other credible sources?
+clueweb22-en0001-94-01455-Q11	clueweb22-en0001-94-01455	What is Elon Musk’s track record in fulfilling philanthropic pledges?
+clueweb22-en0001-94-01455-Q12	clueweb22-en0001-94-01455	What is the expertise of David Laborde in food policy?
+clueweb22-en0002-30-14917-Q01	clueweb22-en0002-30-14917	What is the credibility of Jack Royston in reporting on the British royal family?
+clueweb22-en0002-30-14917-Q02	clueweb22-en0002-30-14917	What is the evidence supporting Meghan Markle's bullying allegations?
+clueweb22-en0002-30-14917-Q03	clueweb22-en0002-30-14917	Is Jack Royston a credible journalist with a history of accurate reporting?
+clueweb22-en0002-30-14917-Q04	clueweb22-en0002-30-14917	How does Newsweek validate its information, particularly for controversial topics?
+clueweb22-en0002-30-14917-Q05	clueweb22-en0002-30-14917	What mental health resources are available to the royal family?
+clueweb22-en0002-30-14917-Q06	clueweb22-en0002-30-14917	Has Newsweek been reliable in reporting on the Royal Family?
+clueweb22-en0002-30-14917-Q07	clueweb22-en0002-30-14917	What is the track record of the Sunday Express in accurately reporting on Prince Harry and Meghan Markle's relationship?
+clueweb22-en0002-30-14917-Q08	clueweb22-en0002-30-14917	Does the article's source, Newsweek, have a history of accuracy in its reporting?
+clueweb22-en0002-30-14917-Q09	clueweb22-en0002-30-14917	Are former palace staff cited, who alleged bullying by Meghan, considered trustable sources in the context of this article?
+clueweb22-en0002-30-14917-Q10	clueweb22-en0002-30-14917	How credible is Jason Knauf as a source for statements regarding media harassment?
+clueweb22-en0002-30-14917-Q11	clueweb22-en0002-30-14917	Did Buckingham Palace officially respond to Meghan and Harry's interview?
+clueweb22-en0002-30-14917-Q12	clueweb22-en0002-30-14917	Is there a precedent for royal family members criticizing the institution?
+clueweb22-en0003-27-01171-Q01	clueweb22-en0003-27-01171	Is www.independentsentinel.com a credible news source?
+clueweb22-en0003-27-01171-Q02	clueweb22-en0003-27-01171	Who is the author, M Dowling, and what is their background and expertise?
+clueweb22-en0003-27-01171-Q03	clueweb22-en0003-27-01171	What evidence supports Devin Nunes' claim that the FBI and police had prior intelligence about the Capitol riot?
+clueweb22-en0003-27-01171-Q04	clueweb22-en0003-27-01171	What evidence supports the claim that the Capitol riot was pre-planned?
+clueweb22-en0003-27-01171-Q05	clueweb22-en0003-27-01171	What are the qualifications of Kyle Becker, who reviewed the resignation letter of the Capitol Hill Police Chief?
+clueweb22-en0003-27-01171-Q06	clueweb22-en0003-27-01171	Did Pelosi ignore security warnings before Jan 6?
+clueweb22-en0003-27-01171-Q07	clueweb22-en0003-27-01171	What official statements refute or support Sund’s claims of intelligence warnings?
+clueweb22-en0003-27-01171-Q08	clueweb22-en0003-27-01171	Is the article's central claim, that the Capitol riots were staged in advance, widely accepted or referenced by other credible sources?
+clueweb22-en0003-27-01171-Q09	clueweb22-en0003-27-01171	How credible is the resignation letter of former Capitol Police Chief Steven Sund?
+clueweb22-en0003-27-01171-Q10	clueweb22-en0003-27-01171	Is there public evidence that Antifa was involved in the January 6 riot?
+clueweb22-en0003-27-01171-Q11	clueweb22-en0003-27-01171	Did Sund warn Congress about Jan 6 risks six times?
+clueweb22-en0003-27-01171-Q12	clueweb22-en0003-27-01171	Are the claimed evidence, like Sund's resignation letter or Kyle Becker's report, authentic and verifiable?
+clueweb22-en0004-93-10414-Q01	clueweb22-en0004-93-10414	What is the professional background of Mary Papenfuss, the author of the HuffPost article?
+clueweb22-en0004-93-10414-Q02	clueweb22-en0004-93-10414	What is Twitter's official policy on ban evasion?
+clueweb22-en0004-93-10414-Q03	clueweb22-en0004-93-10414	Has Liz Harrington posted Trump's messages on Twitter?
+clueweb22-en0004-93-10414-Q04	clueweb22-en0004-93-10414	Has Twitter officially commented on Harrington's actions in relation to Trump's ban?
+clueweb22-en0004-93-10414-Q05	clueweb22-en0004-93-10414	Has Trump been permanently banned from all social media platforms or only Twitter?
+clueweb22-en0004-93-10414-Q06	clueweb22-en0004-93-10414	Did Twitter ban Donald Trump after the Capitol riot?
+clueweb22-en0004-93-10414-Q07	clueweb22-en0004-93-10414	Has Liz Harrington been officially associated with Donald Trump?
+clueweb22-en0004-93-10414-Q08	clueweb22-en0004-93-10414	What is the reputation of HuffPost as a news source for political information?
+clueweb22-en0004-93-10414-Q09	clueweb22-en0004-93-10414	Did Trump's own social media platform materialize?
+clueweb22-en0004-93-10414-Q10	clueweb22-en0004-93-10414	What evidence supports the claim that Liz Harrington is posting Donald Trump's messages on her Twitter account?
+clueweb22-en0004-93-10414-Q11	clueweb22-en0004-93-10414	What are the guidelines for incitement of violence on Twitter?
+clueweb22-en0004-93-10414-Q12	clueweb22-en0004-93-10414	Are Trump's claims about election fraud verified?
+clueweb22-en0006-51-17091-Q01	clueweb22-en0006-51-17091	What evidence supports the claim that the Olympics are "gender-equal"?
+clueweb22-en0006-51-17091-Q02	clueweb22-en0006-51-17091	Is Al Jazeera known for accurate Olympics coverage?
+clueweb22-en0006-51-17091-Q03	clueweb22-en0006-51-17091	What are the credentials of Zaheena Rasheed, the author of the Al Jazeera article on sexism at the Tokyo Olympics?
+clueweb22-en0006-51-17091-Q04	clueweb22-en0006-51-17091	Does Al Jazeera have credibility in reporting on gender issues and sports?
+clueweb22-en0006-51-17091-Q05	clueweb22-en0006-51-17091	Does IOC claim 2020 Olympics achieved gender equality?
+clueweb22-en0006-51-17091-Q06	clueweb22-en0006-51-17091	How are testosterone levels linked to athletic performance in peer-reviewed studies?
+clueweb22-en0006-51-17091-Q07	clueweb22-en0006-51-17091	Does the International Olympic Committee (IOC) publicly acknowledge the gender-equality issues raised in this article?
+clueweb22-en0006-51-17091-Q08	clueweb22-en0006-51-17091	How reliable is the IOC for claims about gender equality at the Tokyo Olympics?
+clueweb22-en0006-51-17091-Q09	clueweb22-en0006-51-17091	Are quoted sources, like Michelle O'Shea and Jordan Matthews, considered experts in their respective fields?
+clueweb22-en0006-51-17091-Q10	clueweb22-en0006-51-17091	What evidence supports the claim made by Jordan Matthews about historical exclusion of women in the Olympics?
+clueweb22-en0006-51-17091-Q11	clueweb22-en0006-51-17091	Can inclusion of women in the Olympics be traced back to specific policy changes?
+clueweb22-en0006-51-17091-Q12	clueweb22-en0006-51-17091	Has sexualization of female athletes been documented?
+clueweb22-en0008-06-14191-Q01	clueweb22-en0008-06-14191	Is Katie Wermus a credible journalist with expertise in construction or legal reporting?
+clueweb22-en0008-06-14191-Q02	clueweb22-en0008-06-14191	What is the credibility of the Associated Press in reporting on structural engineering?
+clueweb22-en0008-06-14191-Q03	clueweb22-en0008-06-14191	Does the Associated Press validate the lawsuit's claims about the Surfside building collapse?
+clueweb22-en0008-06-14191-Q04	clueweb22-en0008-06-14191	What evidence links the next-door construction to the Surfside condo collapse?
+clueweb22-en0008-06-14191-Q05	clueweb22-en0008-06-14191	Are there other lawsuits related to the Surfside condo collapse?
+clueweb22-en0008-06-14191-Q06	clueweb22-en0008-06-14191	What are the qualifications of David B. Weinstein, the attorney representing 8701 Collins Development LLC?
+clueweb22-en0008-06-14191-Q07	clueweb22-en0008-06-14191	How credible is the National Institute for Standards and Technology as an investigating agency?
+clueweb22-en0008-06-14191-Q08	clueweb22-en0008-06-14191	Has the National Institute for Standards and Technology published findings on the collapse?
+clueweb22-en0008-06-14191-Q09	clueweb22-en0008-06-14191	Have there been similar cases where construction of a nearby building led to a building collapse?
+clueweb22-en0008-06-14191-Q10	clueweb22-en0008-06-14191	How has the Champlain Towers South condo association responded to previous structural concerns?
+clueweb22-en0008-06-14191-Q11	clueweb22-en0008-06-14191	What is the reputation of Newsweek in reporting legal or construction issues?
+clueweb22-en0008-06-14191-Q12	clueweb22-en0008-06-14191	What are the qualifications of David B. Weinstein in structural engineering?
+clueweb22-en0008-66-03464-Q01	clueweb22-en0008-66-03464	Are the sources cited, such as The Metro and The Telegraph, credible and reliable?
+clueweb22-en0008-66-03464-Q02	clueweb22-en0008-66-03464	Who confirmed the details of Queen Elizabeth II's funeral plans?
+clueweb22-en0008-66-03464-Q03	clueweb22-en0008-66-03464	What is the reputation of The Telegraph for accurate reporting on royal family matters?
+clueweb22-en0008-66-03464-Q04	clueweb22-en0008-66-03464	Is Camila Barbeito a credible journalist in royal affairs?
+clueweb22-en0008-66-03464-Q05	clueweb22-en0008-66-03464	How reliable is CNN as a source for information on royal events?
+clueweb22-en0008-66-03464-Q06	clueweb22-en0008-66-03464	Are there previous instances where Lieutenant-Colonel Anthony Mather planned notable events?
+clueweb22-en0008-66-03464-Q07	clueweb22-en0008-66-03464	What is the source of the "Operation London Bridge" details?
+clueweb22-en0008-66-03464-Q08	clueweb22-en0008-66-03464	Has The Telegraph reported on Queen Elizabeth's funeral plans?
+clueweb22-en0008-66-03464-Q09	clueweb22-en0008-66-03464	How trustworthy is Royal as a source for details about Prince Philip's funeral arrangements?
+clueweb22-en0008-66-03464-Q10	clueweb22-en0008-66-03464	Did Prince Philip plan his funeral with military precision?
+clueweb22-en0008-66-03464-Q11	clueweb22-en0008-66-03464	Is the 10-day mourning period after the queen's death officially sanctioned?
+clueweb22-en0008-66-03464-Q12	clueweb22-en0008-66-03464	Is "Operation London Bridge" a referenced and valid codename for Queen Elizabeth's passing?
+clueweb22-en0009-48-00571-Q01	clueweb22-en0009-48-00571	Is Rolling Stone a credible source for reporting police and security numbers at Astroworld?
+clueweb22-en0009-48-00571-Q02	clueweb22-en0009-48-00571	What is Travis Scott's history of concert safety issues?
+clueweb22-en0009-48-00571-Q03	clueweb22-en0009-48-00571	How reliable are the sources quoted in this article, such as Jennifer Matarese, a podcast host, and Rolling Stone report?
+clueweb22-en0009-48-00571-Q04	clueweb22-en0009-48-00571	Is Melinda Fakuade a credible journalist at Vox?
+clueweb22-en0009-48-00571-Q05	clueweb22-en0009-48-00571	How reliable is the NY Times in reporting Houston police chief Troy Finner's Astroworld crowd concerns?
+clueweb22-en0009-48-00571-Q06	clueweb22-en0009-48-00571	How does crowd control at Astroworld compare to other large events?
+clueweb22-en0009-48-00571-Q07	clueweb22-en0009-48-00571	Has Vox been accurate in reporting on past events?
+clueweb22-en0009-48-00571-Q08	clueweb22-en0009-48-00571	Is Vox known to engage responsibly with sourcing and fact-checking?
+clueweb22-en0009-48-00571-Q09	clueweb22-en0009-48-00571	Does the article present arguments from different viewpoints or is there any noticeable bias?
+clueweb22-en0009-48-00571-Q10	clueweb22-en0009-48-00571	What is the track record of Live Nation regarding safety at their events?
+clueweb22-en0009-48-00571-Q11	clueweb22-en0009-48-00571	Were 528 police present at Astroworld as reported?
+clueweb22-en0009-48-00571-Q12	clueweb22-en0009-48-00571	What were the specific roles of police and security at Astroworld?
+clueweb22-en0010-55-02682-Q01	clueweb22-en0010-55-02682	Is Nell Greenfieldboyce a credible journalist for NPR?
+clueweb22-en0010-55-02682-Q02	clueweb22-en0010-55-02682	What evidence links James Webb to anti-gay policies?
+clueweb22-en0010-55-02682-Q03	clueweb22-en0010-55-02682	What is the historical context of James Webb's tenure at NASA?
+clueweb22-en0010-55-02682-Q04	clueweb22-en0010-55-02682	Has NASA conducted a thorough investigation into the allegations against James Webb?
+clueweb22-en0010-55-02682-Q05	clueweb22-en0010-55-02682	What evidence do 1,200 astronomers cite about James Webb's alleged discrimination against gay and lesbian employees?
+clueweb22-en0010-55-02682-Q06	clueweb22-en0010-55-02682	How did NASA conduct its investigation into Webb's past?
+clueweb22-en0010-55-02682-Q07	clueweb22-en0010-55-02682	Does the controversy around James Webb's name undermine the credibility of the scientific research that can be conducted using the telescope?
+clueweb22-en0010-55-02682-Q08	clueweb22-en0010-55-02682	Has NASA officially refused to rename the James Webb Telescope?
+clueweb22-en0010-55-02682-Q09	clueweb22-en0010-55-02682	Who were the historians involved in NASA's internal investigation of James Webb's actions?
+clueweb22-en0010-55-02682-Q10	clueweb22-en0010-55-02682	What were Sean O'Keefe’s credentials when naming the telescope?
+clueweb22-en0010-55-02682-Q11	clueweb22-en0010-55-02682	What is Chanda Prescod-Weinstein's stance on the naming of the James Webb Space Telescope?
+clueweb22-en0010-55-02682-Q12	clueweb22-en0010-55-02682	Did Clifford Norton get fired under James Webb's NASA leadership?
+clueweb22-en0011-04-10912-Q01	clueweb22-en0011-04-10912	What evidence supports the claim that drug laws are racially biased?
+clueweb22-en0011-04-10912-Q02	clueweb22-en0011-04-10912	What are the qualifications of Brian Mann, the NPR journalist who authored the article?
+clueweb22-en0011-04-10912-Q03	clueweb22-en0011-04-10912	Is NPR considered a trustworthy source for news and information?
+clueweb22-en0011-04-10912-Q04	clueweb22-en0011-04-10912	Has the War on Drugs lasted 50 years as stated?
+clueweb22-en0011-04-10912-Q05	clueweb22-en0011-04-10912	How credible is the Drug Policy Alliance in advocating for drug decriminalization?
+clueweb22-en0011-04-10912-Q06	clueweb22-en0011-04-10912	How does the US incarceration rate compare with other nations, particularly in relation to drug-related offenses?
+clueweb22-en0011-04-10912-Q07	clueweb22-en0011-04-10912	How does the incarceration rate for Black men compare to white men in the U.S.?
+clueweb22-en0011-04-10912-Q08	clueweb22-en0011-04-10912	Are incarceration rates higher in Brownsville, NY?
+clueweb22-en0011-04-10912-Q09	clueweb22-en0011-04-10912	What are the long-term societal impacts of mass incarceration on communities?
+clueweb22-en0011-04-10912-Q10	clueweb22-en0011-04-10912	What is the public opinion on the War on Drugs?
+clueweb22-en0011-04-10912-Q11	clueweb22-en0011-04-10912	What is the track record of the National Institute of Drug Abuse in providing reliable data on drug addiction?
+clueweb22-en0011-04-10912-Q12	clueweb22-en0011-04-10912	Is there evidence supporting the claim that the War on Drugs has not reduced drug use and addiction in the U.S?
+clueweb22-en0011-45-06075-Q01	clueweb22-en0011-45-06075	What is the credibility of The Heartland Institute in reporting on global economic issues?
+clueweb22-en0011-45-06075-Q02	clueweb22-en0011-45-06075	What is the credibility and reputation of The Heartland Institute as a source of information?
+clueweb22-en0011-45-06075-Q03	clueweb22-en0011-45-06075	Is the Heartland Institute a credible source on climate issues?
+clueweb22-en0011-45-06075-Q04	clueweb22-en0011-45-06075	What is the "Great Reset" as defined by the World Economic Forum?
+clueweb22-en0011-45-06075-Q05	clueweb22-en0011-45-06075	What is the Heartland Institute's political bias?
+clueweb22-en0011-45-06075-Q06	clueweb22-en0011-45-06075	Has John Kerry publicly supported the "Great Reset"?
+clueweb22-en0011-45-06075-Q07	clueweb22-en0011-45-06075	What are the qualifications of Justin Haskins, the editorial director at The Heartland Institute?
+clueweb22-en0011-45-06075-Q08	clueweb22-en0011-45-06075	Is Justin Haskins, who wrote the article, a reputable and unbiased source of information?
+clueweb22-en0011-45-06075-Q09	clueweb22-en0011-45-06075	Are claims about Biden's involvement in the Great Reset verified?
+clueweb22-en0011-45-06075-Q10	clueweb22-en0011-45-06075	What role does John Kerry hold in Joe Biden's administration?
+clueweb22-en0011-45-06075-Q11	clueweb22-en0011-45-06075	How reliable is the World Economic Forum as a source for information on global economic initiatives?
+clueweb22-en0011-45-06075-Q12	clueweb22-en0011-45-06075	What is John Kerry's level of expertise on the topic of the 'Great Reset'?
+clueweb22-en0011-68-20306-Q01	clueweb22-en0011-68-20306	What is the credibility of BuzzFeed in reporting on Dr. Anthony Fauci's emails?
+clueweb22-en0011-68-20306-Q02	clueweb22-en0011-68-20306	What are the professional qualifications of Dr. Anthony Fauci in infectious disease and public health?
+clueweb22-en0011-68-20306-Q03	clueweb22-en0011-68-20306	Is Vox known for accurate reporting on political topics?
+clueweb22-en0011-68-20306-Q04	clueweb22-en0011-68-20306	What evidence supports Fauci's stance on mask effectiveness?
+clueweb22-en0011-68-20306-Q05	clueweb22-en0011-68-20306	What is Maryam Gamar's reputation as a journalist?
+clueweb22-en0011-68-20306-Q06	clueweb22-en0011-68-20306	Is there evidence to support the claim that Fauci intentionally misled the public about Covid-19?
+clueweb22-en0011-68-20306-Q07	clueweb22-en0011-68-20306	What is the historical accuracy of Vox's reporting on Covid-19?
+clueweb22-en0011-68-20306-Q08	clueweb22-en0011-68-20306	What are Rand Paul’s credentials in virology or epidemiology?
+clueweb22-en0011-68-20306-Q09	clueweb22-en0011-68-20306	How reliable is the Freedom of Information Act process in ensuring the authenticity of Dr. Anthony Fauci's emails?
+clueweb22-en0011-68-20306-Q10	clueweb22-en0011-68-20306	Did Sen. Rand Paul link Fauci's emails to fundraising?
+clueweb22-en0011-68-20306-Q11	clueweb22-en0011-68-20306	What was the context of the "Conspiracy gains momentum" email sent by Dr. Francis Collins to Dr. Fauci?
+clueweb22-en0011-68-20306-Q12	clueweb22-en0011-68-20306	How do mask mandates correlate with COVID-19 transmission rates?
+clueweb22-en0011-87-10216-Q01	clueweb22-en0011-87-10216	Is Elizabeth Howell a credible space journalist?
+clueweb22-en0011-87-10216-Q02	clueweb22-en0011-87-10216	What is the source of the funding for the Inspiration4 mission?
+clueweb22-en0011-87-10216-Q03	clueweb22-en0011-87-10216	What are the qualifications of Elizabeth Howell, the author of the article on SpaceX's Inspiration4 mission?
+clueweb22-en0011-87-10216-Q04	clueweb22-en0011-87-10216	Does the information provided by SpaceX corroborate with other reputable sources on the Inspiration4 mission?
+clueweb22-en0011-87-10216-Q05	clueweb22-en0011-87-10216	Has SpaceX launched an all-civilian spaceflight before?
+clueweb22-en0011-87-10216-Q06	clueweb22-en0011-87-10216	How reliable is Space.com as a source for spaceflight news?
+clueweb22-en0011-87-10216-Q07	clueweb22-en0011-87-10216	How are the crew members selected for Inspiration4?
+clueweb22-en0011-87-10216-Q08	clueweb22-en0011-87-10216	Can the expertise of each of the civilian flight crew of Inspiration4, as reported in the article, be verified?
+clueweb22-en0011-87-10216-Q09	clueweb22-en0011-87-10216	How credible is the Translational Research Institute for Space Health (TRISH) in space health research?
+clueweb22-en0011-87-10216-Q10	clueweb22-en0011-87-10216	What are the specific scientific goals of Inspiration4?
+clueweb22-en0011-87-10216-Q11	clueweb22-en0011-87-10216	Did the Inspiration4 mission include a diverse crew?
+clueweb22-en0011-87-10216-Q12	clueweb22-en0011-87-10216	Is St. Jude Children's Research Hospital, the organization Inspiration4 mission supports, a credible and legitimate institution?
+clueweb22-en0014-31-02076-Q01	clueweb22-en0014-31-02076	Is the Indian Express rated green by Newsguard?
+clueweb22-en0014-31-02076-Q02	clueweb22-en0014-31-02076	Does the source referenced by the National Oceanic and Atmospheric Administration (NOAA) have a good reputation in the scientific community?
+clueweb22-en0014-31-02076-Q03	clueweb22-en0014-31-02076	What is the credibility of the National Oceanic and Atmospheric Administration (NOAA) in explaining climate phenomena?
+clueweb22-en0014-31-02076-Q04	clueweb22-en0014-31-02076	What is the scientific basis for linking heat domes to ocean temperature changes?
+clueweb22-en0014-31-02076-Q05	clueweb22-en0014-31-02076	How do experts determine if a heat wave is caused by climate change?
+clueweb22-en0014-31-02076-Q06	clueweb22-en0014-31-02076	What is a heat dome according to NOAA?
+clueweb22-en0014-31-02076-Q07	clueweb22-en0014-31-02076	How reliable is the National Weather Service (NWS) Portland as a source for temperature records?
+clueweb22-en0014-31-02076-Q08	clueweb22-en0014-31-02076	Is the scientific information presented in the document specific and detailed, rather than vague and generalized?
+clueweb22-en0014-31-02076-Q09	clueweb22-en0014-31-02076	Can heat waves occur without high humidity?
+clueweb22-en0014-31-02076-Q10	clueweb22-en0014-31-02076	What qualifications and expertise does Randall Munroe have to comment on human tolerance to heat?
+clueweb22-en0014-31-02076-Q11	clueweb22-en0014-31-02076	Does the document cite and align with recognized studies or general scientific consensus?
+clueweb22-en0014-31-02076-Q12	clueweb22-en0014-31-02076	How does the wet-bulb temperature limit human tolerance to heat?
+clueweb22-en0014-73-15567-Q01	clueweb22-en0014-73-15567	Is Jennifer Leman a credible science journalist?
+clueweb22-en0014-73-15567-Q02	clueweb22-en0014-73-15567	Have other credible sources cited this web document?
+clueweb22-en0014-73-15567-Q03	clueweb22-en0014-73-15567	What are the qualifications of Jennifer Leman in maritime and shipping topics?
+clueweb22-en0014-73-15567-Q04	clueweb22-en0014-73-15567	What is the credibility of Donald Maier in discussing maritime accidents?
+clueweb22-en0014-73-15567-Q05	clueweb22-en0014-73-15567	What is the expertise of Captain Morgan McManus in maritime salvage operations?
+clueweb22-en0014-73-15567-Q06	clueweb22-en0014-73-15567	How is the $10 billion daily loss figure due to the Suez blockage calculated?
+clueweb22-en0014-73-15567-Q07	clueweb22-en0014-73-15567	Does the website disclose its editorial process and criteria for publishing information?
+clueweb22-en0014-73-15567-Q08	clueweb22-en0014-73-15567	Has the Ever Given ship been freed from the Suez Canal?
+clueweb22-en0014-73-15567-Q09	clueweb22-en0014-73-15567	What is the historical accuracy of the Suez Canal Authority's claims about the canal's construction?
+clueweb22-en0014-73-15567-Q10	clueweb22-en0014-73-15567	What is the reputation of Popular Mechanics magazine?
+clueweb22-en0014-73-15567-Q11	clueweb22-en0014-73-15567	Is the tone of the article professional and devoid of emotional language or exaggerations?
+clueweb22-en0014-73-15567-Q12	clueweb22-en0014-73-15567	What sources confirm the use of eight tugboats in the Ever Given salvage operation?
+clueweb22-en0015-03-06090-Q01	clueweb22-en0015-03-06090	What are the qualifications of James Kirkup, the author of the article?
+clueweb22-en0015-03-06090-Q02	clueweb22-en0015-03-06090	Is James Kirkup a credible source on transgender issues?
+clueweb22-en0015-03-06090-Q03	clueweb22-en0015-03-06090	What are the IOC's current policies on transgender athletes in competition?
+clueweb22-en0015-03-06090-Q04	clueweb22-en0015-03-06090	What is the credibility and reputation of "The Spectator" as a news source?
+clueweb22-en0015-03-06090-Q05	clueweb22-en0015-03-06090	How reliable is the Social Market Foundation in providing unbiased information?
+clueweb22-en0015-03-06090-Q06	clueweb22-en0015-03-06090	Has James Kirkup, the author, possess expertise in the field of sports policy regarding transgender athletes?
+clueweb22-en0015-03-06090-Q07	clueweb22-en0015-03-06090	Has research shown trans women retain advantages in sports post-transition?
+clueweb22-en0015-03-06090-Q08	clueweb22-en0015-03-06090	What does current research say about trans athletes' performance?
+clueweb22-en0015-03-06090-Q09	clueweb22-en0015-03-06090	What are James Barrett’s qualifications and his role in trans athlete research?
+clueweb22-en0015-03-06090-Q10	clueweb22-en0015-03-06090	How does hormone-suppressant therapy affect athletic performance?
+clueweb22-en0015-03-06090-Q11	clueweb22-en0015-03-06090	What are some recognized professional opinions opposing Hubbard's participation in women's weightlifting?
+clueweb22-en0015-03-06090-Q12	clueweb22-en0015-03-06090	What are Joanna Harper's credentials on transgender athletes?
+clueweb22-en0016-04-14428-Q01	clueweb22-en0016-04-14428	Is Sarah Whitten, the author of this article, a reliable source for entertainment news?
+clueweb22-en0016-04-14428-Q02	clueweb22-en0016-04-14428	What are Alec Baldwin's roles in the "Rust" film production?
+clueweb22-en0016-04-14428-Q03	clueweb22-en0016-04-14428	Has Alec Baldwin been involved in past on-set incidents?
+clueweb22-en0016-04-14428-Q04	clueweb22-en0016-04-14428	Is the Santa Fe County Sheriff's Office a reliable source for "Rust" movie set shooting info?
+clueweb22-en0016-04-14428-Q05	clueweb22-en0016-04-14428	What is the historical accuracy of NBCUniversal and CNBC in reporting on incidents involving Alec Baldwin?
+clueweb22-en0016-04-14428-Q06	clueweb22-en0016-04-14428	Does Halyna Hutchins, the deceased, possess expertise and experience in the film industry?
+clueweb22-en0016-04-14428-Q07	clueweb22-en0016-04-14428	Are reports of prior prop gun misfires on "Rust" set verified?
+clueweb22-en0016-04-14428-Q08	clueweb22-en0016-04-14428	Has Alec Baldwin faced legal issues related to anger management before?
+clueweb22-en0016-04-14428-Q09	clueweb22-en0016-04-14428	What is the reputation of NBC News in reporting accuracy?
+clueweb22-en0016-04-14428-Q10	clueweb22-en0016-04-14428	What are the qualifications of the assistant director who handed Baldwin the gun?
+clueweb22-en0016-04-14428-Q11	clueweb22-en0016-04-14428	Was there a professional arms handler present on the set of "Rust"?
+clueweb22-en0016-04-14428-Q12	clueweb22-en0016-04-14428	How trustworthy is the Los Angeles Times?
+clueweb22-en0018-59-04061-Q01	clueweb22-en0018-59-04061	Have other credible sources acknowledged Canada's actions against Indigenous peoples as genocide?
+clueweb22-en0018-59-04061-Q02	clueweb22-en0018-59-04061	What is the UN definition of genocide?
+clueweb22-en0018-59-04061-Q03	clueweb22-en0018-59-04061	What is the credibility of the British legal team that documented crimes against the Uyghur population in China?
+clueweb22-en0018-59-04061-Q04	clueweb22-en0018-59-04061	Is David MacDonald a credible source on Indigenous issues?
+clueweb22-en0018-59-04061-Q05	clueweb22-en0018-59-04061	What evidence supports the claim of genocide in Canadian residential schools?
+clueweb22-en0018-59-04061-Q06	clueweb22-en0018-59-04061	What evidence supports Tk’emlúps te Secwépemc's claim of finding 215 children's remains at Kamloops Residential School?
+clueweb22-en0018-59-04061-Q07	clueweb22-en0018-59-04061	Did the TRC report label IRS actions as genocide?
+clueweb22-en0018-59-04061-Q08	clueweb22-en0018-59-04061	How does the Truth and Reconciliation Commission of Canada substantiate its claims of cultural genocide?
+clueweb22-en0018-59-04061-Q09	clueweb22-en0018-59-04061	What evidence supports IRS as genocide under Article 2e?
+clueweb22-en0018-59-04061-Q10	clueweb22-en0018-59-04061	How does Canada's Parliament define and recognize genocide?
+clueweb22-en0018-59-04061-Q11	clueweb22-en0018-59-04061	What is Canada's official position regarding its treatment of the Indigenous population?
+clueweb22-en0018-59-04061-Q12	clueweb22-en0018-59-04061	How has the Canadian government responded to accusations concerning the Indian Residential Schools?
+clueweb22-en0018-73-1003-Q01	clueweb22-en0018-73-1003	Is the method of enforcement for the Texas Heartbeat Act unique compared to other similar laws?
+clueweb22-en0018-73-10035-Q01	clueweb22-en0018-73-10035	How is the "100 babies saved daily" figure in the Texas Heartbeat Act verified?
+clueweb22-en0018-73-10035-Q02	clueweb22-en0018-73-10035	What is the professional background of Rebecca Parma, the senior legislative associate at Texas Right to Life?
+clueweb22-en0018-73-10035-Q03	clueweb22-en0018-73-10035	What is Texas Right to Life's reputation?
+clueweb22-en0018-73-10035-Q04	clueweb22-en0018-73-10035	What official stance does the Biden administration have on the Texas Heartbeat Act?
+clueweb22-en0018-73-10035-Q05	clueweb22-en0018-73-10035	What defines 'aiding and abetting' an abortion under Texas law?
+clueweb22-en0018-73-10035-Q06	clueweb22-en0018-73-10035	What are the conditions under which someone can be sued under the Texas Heartbeat Act?
+clueweb22-en0018-73-10035-Q07	clueweb22-en0018-73-10035	Are civil penalties effective in pro-life laws?
+clueweb22-en0018-73-10035-Q08	clueweb22-en0018-73-10035	What are the potential biases of Texas Right to Life?
+clueweb22-en0018-73-10035-Q09	clueweb22-en0018-73-10035	Has the Texas Heartbeat Act reduced abortion rates?
+clueweb22-en0018-73-10035-Q10	clueweb22-en0018-73-10035	Can private citizens effectively enforce abortion laws like Texas' Heartbeat Act?
+clueweb22-en0018-73-10035-Q11	clueweb22-en0018-73-10035	What is the stance of the American College of Obstetricians and Gynecologists (ACOG) on the Texas Heartbeat Act?
+clueweb22-en0019-43-01843-Q01	clueweb22-en0019-43-01843	What is the WHO's target efficacy for malaria vaccines?
+clueweb22-en0019-43-01843-Q02	clueweb22-en0019-43-01843	What are the potential conflicts of interest for Adrian Hill in promoting the R21/MM malaria vaccine?
+clueweb22-en0019-43-01843-Q03	clueweb22-en0019-43-01843	Is Adrian Hill a credible source on malaria vaccine research?
+clueweb22-en0019-43-01843-Q04	clueweb22-en0019-43-01843	Are the funding sources of Adrian Hill's research fully disclosed, evaluating potential conflicts of interest?
+clueweb22-en0019-43-01843-Q05	clueweb22-en0019-43-01843	How reliable is The Lancet as a source for the report on the new malaria vaccine's efficacy?
+clueweb22-en0019-43-01843-Q06	clueweb22-en0019-43-01843	Has the study on the R21 malaria vaccine been published in a peer-reviewed and reputable scientific journal?
+clueweb22-en0019-43-01843-Q07	clueweb22-en0019-43-01843	What are the WHO's estimated malaria cases and deaths in 2019?
+clueweb22-en0019-43-01843-Q08	clueweb22-en0019-43-01843	Has the R21 malaria vaccine shown 77% efficacy in trials?
+clueweb22-en0019-43-01843-Q09	clueweb22-en0019-43-01843	What is the historical accuracy of the World Health Organization's estimates on malaria cases?
+clueweb22-en0019-43-01843-Q10	clueweb22-en0019-43-01843	Are reports of the safety and effectiveness of the R21 malaria vaccine during its phase 2 trials independently verified?
+clueweb22-en0019-43-01843-Q11	clueweb22-en0019-43-01843	What are the safety concerns of the RTS,S malaria vaccine?
+clueweb22-en0019-43-01843-Q12	clueweb22-en0019-43-01843	How has malaria impacted children under five in Africa?
+clueweb22-en0020-77-04008-Q01	clueweb22-en0020-77-04008	Is TheBlaze known for accurate reporting on health topics?
+clueweb22-en0020-77-04008-Q02	clueweb22-en0020-77-04008	What are Daniel Horowitz's qualifications in virology?
+clueweb22-en0020-77-04008-Q03	clueweb22-en0020-77-04008	Is it scientifically established that receiving more boosters increases the risk of contracting Omicron?
+clueweb22-en0020-77-04008-Q04	clueweb22-en0020-77-04008	What evidence supports Omicron causing immunity to more severe variants?
+clueweb22-en0020-77-04008-Q05	clueweb22-en0020-77-04008	Is the assertion that Omicron is less severe and fatal compared to other strains supported by peer-reviewed studies?
+clueweb22-en0020-77-04008-Q06	clueweb22-en0020-77-04008	How do vaccination rates correlate with Omicron hospitalizations globally?
+clueweb22-en0020-77-04008-Q07	clueweb22-en0020-77-04008	Are vaccinated individuals more likely to contract Omicron?
+clueweb22-en0020-77-04008-Q08	clueweb22-en0020-77-04008	What method did the UK's Office of National Statistics use to identify Omicron cases in vaccinated individuals?
+clueweb22-en0020-77-04008-Q09	clueweb22-en0020-77-04008	What studies validate the claims about masks' ineffectiveness against Omicron?
+clueweb22-en0020-77-04008-Q10	clueweb22-en0020-77-04008	Are there scientific studies corroborating the assertion that Omicron provides "natural boosters"?
+clueweb22-en0020-77-04008-Q11	clueweb22-en0020-77-04008	Are monoclonal antibodies ineffective against Omicron?
+clueweb22-en0020-77-04008-Q12	clueweb22-en0020-77-04008	What is the research history of the Soto Lab in Japan regarding Omicron's spike protein?
+clueweb22-en0021-07-11698-Q01	clueweb22-en0021-07-11698	What is the legal process for Japanese royals to renounce their titles?
+clueweb22-en0021-07-11698-Q02	clueweb22-en0021-07-11698	What is the reputation of Skyler Caruso as a journalist for PEOPLE.com?
+clueweb22-en0021-07-11698-Q03	clueweb22-en0021-07-11698	Did Princess Mako decline a $1.3 million payout from Japan?
+clueweb22-en0021-07-11698-Q04	clueweb22-en0021-07-11698	Are the stories published by People.com generally accurate and reliable?
+clueweb22-en0021-07-11698-Q05	clueweb22-en0021-07-11698	How reliable is the information provided by the Imperial Household Agency (IHA) regarding Princess Mako's marriage?
+clueweb22-en0021-07-11698-Q06	clueweb22-en0021-07-11698	How does Japanese law regulate royal marriages and succession?
+clueweb22-en0021-07-11698-Q07	clueweb22-en0021-07-11698	Are there credible sources verifying that Mako did indeed reject the $1.3 million payout from the Japanese government?
+clueweb22-en0021-07-11698-Q08	clueweb22-en0021-07-11698	Is Kei Komuro employed by Lowenstein Sandler LLP?
+clueweb22-en0021-07-11698-Q09	clueweb22-en0021-07-11698	Who currently qualifies as heirs to the Chrysanthemum Throne?
+clueweb22-en0021-07-11698-Q10	clueweb22-en0021-07-11698	Are there confirmed reports indicating Mako and Kei Komuro have relocated to New York?
+clueweb22-en0021-07-11698-Q11	clueweb22-en0021-07-11698	Did Mako suffer from PTSD due to media backlash?
+clueweb22-en0021-07-11698-Q12	clueweb22-en0021-07-11698	How accurate are The Associated Press claims about Princess Mako and Kei Komuro's relationship?
+clueweb22-en0024-50-13880-Q01	clueweb22-en0024-50-13880	How reliable and trustworthy is Reuters as a source of news?
+clueweb22-en0024-50-13880-Q02	clueweb22-en0024-50-13880	Did ERCOT's CEO comment on near blackout conditions?
+clueweb22-en0024-50-13880-Q03	clueweb22-en0024-50-13880	What is the credibility of Tim McLaughlin, the author of the Reuters article?
+clueweb22-en0024-50-13880-Q04	clueweb22-en0024-50-13880	How accurate are ERCOT's historical weather predictions?
+clueweb22-en0024-50-13880-Q05	clueweb22-en0024-50-13880	What evidence supports ERCOT's reserve power capacity claims?
+clueweb22-en0024-50-13880-Q06	clueweb22-en0024-50-13880	Was there a nuclear reactor shutdown in Texas in February 2021?
+clueweb22-en0024-50-13880-Q07	clueweb22-en0024-50-13880	Did the 2011 federal recommendations for ERCOT to prepare for winter as it does for summer actually occur?
+clueweb22-en0024-50-13880-Q08	clueweb22-en0024-50-13880	What is the expertise of Stephanie Kelly, the author of the Reuters article?
+clueweb22-en0024-50-13880-Q09	clueweb22-en0024-50-13880	Is the professional background of Pete Warnken, ERCOT’s manager of resource adequacy, credible?
+clueweb22-en0024-50-13880-Q10	clueweb22-en0024-50-13880	What are the qualifications of Jay Apt, co-director of the Carnegie Mellon Electricity Industry Center?
+clueweb22-en0024-50-13880-Q11	clueweb22-en0024-50-13880	Does ERCOT operate without a capacity market?
+clueweb22-en0024-50-13880-Q12	clueweb22-en0024-50-13880	Have other U.S. states experienced similar grid failures in cold snaps?
+clueweb22-en0024-53-03398-Q01	clueweb22-en0024-53-03398	What are Joseph A. Wulfsohn's qualifications as a media reporter?
+clueweb22-en0024-53-03398-Q02	clueweb22-en0024-53-03398	What evidence supports Rittenhouse's self-defense claim?
+clueweb22-en0024-53-03398-Q03	clueweb22-en0024-53-03398	Is Joseph A. Wulfsohn a credible media reporter?
+clueweb22-en0024-53-03398-Q04	clueweb22-en0024-53-03398	What are the potential biases associated with Fox News as a source of news?
+clueweb22-en0024-53-03398-Q05	clueweb22-en0024-53-03398	How does provocation impact self-defense claims in Wisconsin law?
+clueweb22-en0024-53-03398-Q06	clueweb22-en0024-53-03398	Can Fox News be considered a reliable source of news?
+clueweb22-en0024-53-03398-Q07	clueweb22-en0024-53-03398	What is the journalistic reputation of New York Times Magazine?
+clueweb22-en0024-53-03398-Q08	clueweb22-en0024-53-03398	Did MSNBC really follow the jury's bus in the Rittenhouse trial?
+clueweb22-en0024-53-03398-Q09	clueweb22-en0024-53-03398	What is Kyle Rittenhouse's official legal defense for the charges he faced?
+clueweb22-en0024-53-03398-Q10	clueweb22-en0024-53-03398	What was the racial composition of the Rittenhouse trial jury?
+clueweb22-en0024-53-03398-Q11	clueweb22-en0024-53-03398	What is the credibility of CNN contributor Ana Navarro in providing accurate commentary?
+clueweb22-en0024-53-03398-Q12	clueweb22-en0024-53-03398	Is there a legal basis for federal charges against Rittenhouse?
+clueweb22-en0025-24-00616-Q01	clueweb22-en0025-24-00616	Is Bridgette Watson a credible journalist at CBC British Columbia?
+clueweb22-en0025-24-00616-Q02	clueweb22-en0025-24-00616	What is the historical accuracy of flood frequency in Merritt, B.C.?
+clueweb22-en0025-24-00616-Q03	clueweb22-en0025-24-00616	Does CBC News adhere to high journalistic standards and practices?
+clueweb22-en0025-24-00616-Q04	clueweb22-en0025-24-00616	What is the credibility of CBC News as a source for reporting on natural disasters in British Columbia?
+clueweb22-en0025-24-00616-Q05	clueweb22-en0025-24-00616	Are other sources reporting on allegations of inadequate preparation and alert systems in British Columbia?
+clueweb22-en0025-24-00616-Q06	clueweb22-en0025-24-00616	Are evacuation protocols in Merritt consistent with federal emergency guidelines?
+clueweb22-en0025-24-00616-Q07	clueweb22-en0025-24-00616	Has Merritt, B.C. experienced both wildfires and floods in 2021?
+clueweb22-en0025-24-00616-Q08	clueweb22-en0025-24-00616	What are the qualifications of Bridgette Watson in reporting on environmental issues?
+clueweb22-en0025-24-00616-Q09	clueweb22-en0025-24-00616	Did Merritt's wastewater treatment plant fail due to flooding?
+clueweb22-en0025-24-00616-Q10	clueweb22-en0025-24-00616	Has the author or CBC News previously reported inaccurately or exhibited biased reporting?
+clueweb22-en0025-24-00616-Q11	clueweb22-en0025-24-00616	What qualifications do Merritt’s city officials have in disaster management?
+clueweb22-en0025-24-00616-Q12	clueweb22-en0025-24-00616	How reliable is the information provided by Greg Lowis regarding Merritt's evacuation efforts?
+clueweb22-en0025-46-00187-Q01	clueweb22-en0025-46-00187	Has Wang Yaping been confirmed as the first Chinese woman to conduct a spacewalk?
+clueweb22-en0025-46-00187-Q02	clueweb22-en0025-46-00187	What is the credibility of the Global Times as a source for space exploration news?
+clueweb22-en0025-46-00187-Q03	clueweb22-en0025-46-00187	Is the Global Times a reliable and unbiased source of news?
+clueweb22-en0025-46-00187-Q04	clueweb22-en0025-46-00187	Is the CMSA a reliable source for Chinese space mission updates?
+clueweb22-en0025-46-00187-Q05	clueweb22-en0025-46-00187	Is there any external verification of the feats reported by the Shenzhou-13 crew?
+clueweb22-en0025-46-00187-Q06	clueweb22-en0025-46-00187	Are Feitian spacesuits used by Chinese taikonauts for EVAs?
+clueweb22-en0025-46-00187-Q07	clueweb22-en0025-46-00187	What is the China Manned Space Agency (CMSA)?
+clueweb22-en0025-46-00187-Q08	clueweb22-en0025-46-00187	Are Feitian spacesuits proven effective for extravehicular activities?
+clueweb22-en0025-46-00187-Q09	clueweb22-en0025-46-00187	Has any other woman performed a spacewalk before Wang Yaping?
+clueweb22-en0025-46-00187-Q10	clueweb22-en0025-46-00187	What specific roles did Ye Guangfu play during the Shenzhou-13 spacewalk?
+clueweb22-en0025-46-00187-Q11	clueweb22-en0025-46-00187	Are the quoted experts, such as Yang Yuguang, recognized authorities in the field of space exploration?
+clueweb22-en0025-46-00187-Q12	clueweb22-en0025-46-00187	What are the credentials and expertise of Pang Zhihao?
+clueweb22-en0025-74-15671-Q01	clueweb22-en0025-74-15671	Is Tucker Carlson a credible source on legal matters?
+clueweb22-en0025-74-15671-Q02	clueweb22-en0025-74-15671	What are the professional credentials of Tucker Carlson, the author of the article?
+clueweb22-en0025-74-15671-Q03	clueweb22-en0025-74-15671	What is Tucker Carlson's history of reporting on racially charged incidents?
+clueweb22-en0025-74-15671-Q04	clueweb22-en0025-74-15671	What is the official cause of George Floyd's death as per the autopsy report?
+clueweb22-en0025-74-15671-Q05	clueweb22-en0025-74-15671	What is Fox News' reputation for factual reporting?
+clueweb22-en0025-74-15671-Q06	clueweb22-en0025-74-15671	Does the Minneapolis Police Department policy include using a knee restraint?
+clueweb22-en0025-74-15671-Q07	clueweb22-en0025-74-15671	What are the qualifications of the Hennepin County Medical Examiner, Andrew Baker?
+clueweb22-en0025-74-15671-Q08	clueweb22-en0025-74-15671	Is the publisher, Fox News, considered a reliable source by media fact-checking organizations?
+clueweb22-en0025-74-15671-Q09	clueweb22-en0025-74-15671	How does The Daily Mail's reporting on George Floyd's body camera footage compare to other international news outlets?
+clueweb22-en0025-74-15671-Q10	clueweb22-en0025-74-15671	Are there inaccuracies or instances of misinformation in other articles from the same source (Fox News) that could suggest potential issues with the reliability of this article?
+clueweb22-en0025-74-15671-Q11	clueweb22-en0025-74-15671	Was George Floyd's death officially ruled a murder?
+clueweb22-en0025-74-15671-Q12	clueweb22-en0025-74-15671	What are the standard symptoms and fatal levels of fentanyl intoxication?
+clueweb22-en0027-51-12066-Q01	clueweb22-en0027-51-12066	What is the evidence for Bennett's nationalist policies in Israel?
+clueweb22-en0027-51-12066-Q02	clueweb22-en0027-51-12066	Is Saphora Smith a credible reporter for NBC News Digital?
+clueweb22-en0027-51-12066-Q03	clueweb22-en0027-51-12066	What are the qualifications of Yohanan Plesner, president of the Israel Democracy Institute?
+clueweb22-en0027-51-12066-Q04	clueweb22-en0027-51-12066	Is NBC News a reliable source of news with balanced, unbiased, and accurate reporting?
+clueweb22-en0027-51-12066-Q05	clueweb22-en0027-51-12066	How did Netanyahu's policies impact Palestinian freedom claims?
+clueweb22-en0027-51-12066-Q06	clueweb22-en0027-51-12066	Has Rachel Elbaum produced reliable content for NBC News?
+clueweb22-en0027-51-12066-Q07	clueweb22-en0027-51-12066	Has Benjamin Netanyahu officially ended his term as the Prime Minister of Israel?
+clueweb22-en0027-51-12066-Q08	clueweb22-en0027-51-12066	What is the credibility of Diana Buttu in the context of Israeli-Palestinian relations?
+clueweb22-en0027-51-12066-Q09	clueweb22-en0027-51-12066	Who verified the claim that Ra'am is the first Arab party in Israel's coalition?
+clueweb22-en0027-51-12066-Q10	clueweb22-en0027-51-12066	What is the official stance of the United States on the new Israeli government?
+clueweb22-en0027-51-12066-Q11	clueweb22-en0027-51-12066	What is the track record of NBC News Digital in reporting on Middle Eastern politics?
+clueweb22-en0027-51-12066-Q12	clueweb22-en0027-51-12066	Was Naftali Bennett sworn in as Israel's PM in 2021?
+clueweb22-en0028-32-04348-Q01	clueweb22-en0028-32-04348	Is Globalnews.ca a credible news source?
+clueweb22-en0028-32-04348-Q02	clueweb22-en0028-32-04348	Can Manuel De La Cruz and Edgar H. Clemente, the authors of the article, be considered reliable journalists?
+clueweb22-en0028-32-04348-Q03	clueweb22-en0028-32-04348	How accurate is the reported number of casualties in the Chiapas bus crash?
+clueweb22-en0028-32-04348-Q04	clueweb22-en0028-32-04348	What is the track record of The Associated Press in reporting accurate news?
+clueweb22-en0028-32-04348-Q05	clueweb22-en0028-32-04348	What are the credentials of journalist Edgar H. Clemente?
+clueweb22-en0028-32-04348-Q06	clueweb22-en0028-32-04348	Has Globalnews.ca been a reliable source of international news in the past?
+clueweb22-en0028-32-04348-Q07	clueweb22-en0028-32-04348	What evidence supports the claim of 200 migrants in the truck?
+clueweb22-en0028-32-04348-Q08	clueweb22-en0028-32-04348	Does the Associated Press confirm the Chiapas bus crash details?
+clueweb22-en0028-32-04348-Q09	clueweb22-en0028-32-04348	Are reports of 200 migrants in a truck typical for Mexico?
+clueweb22-en0028-32-04348-Q10	clueweb22-en0028-32-04348	How do experts assess the safety of migrant transportation in Mexico?
+clueweb22-en0028-32-04348-Q11	clueweb22-en0028-32-04348	Is there independent verification of the death toll from the Chiapas state civil defense office?
+clueweb22-en0028-32-04348-Q12	clueweb22-en0028-32-04348	Are the quoted individuals like Mexico's officials, survivors, and the Guatemalan President credible in their statements on the incident?
+clueweb22-en0029-83-17080-Q01	clueweb22-en0029-83-17080	What is the 'Made in America' tax plan proposed by the Biden administration?
+clueweb22-en0029-83-17080-Q02	clueweb22-en0029-83-17080	What evidence supports the $100 billion tax revenue loss due to BEPS?
+clueweb22-en0029-83-17080-Q03	clueweb22-en0029-83-17080	What is a global minimum tax rate?
+clueweb22-en0029-83-17080-Q04	clueweb22-en0029-83-17080	What is the credibility of Rob Garver in reporting on tax policy?
+clueweb22-en0029-83-17080-Q05	clueweb22-en0029-83-17080	How reliable is the Tax Policy Center in Washington?
+clueweb22-en0029-83-17080-Q06	clueweb22-en0029-83-17080	Who is Rob Garver, the author of the article?
+clueweb22-en0029-83-17080-Q07	clueweb22-en0029-83-17080	Is there a consensus on the 21% global minimum tax rate proposed by Biden?
+clueweb22-en0029-83-17080-Q08	clueweb22-en0029-83-17080	Is the Organization for Economic Cooperation and Development (OECD) a credible source on global taxation issues?
+clueweb22-en0029-83-17080-Q09	clueweb22-en0029-83-17080	How has the Business Roundtable previously responded to changes in U.S. tax policy?
+clueweb22-en0029-83-17080-Q10	clueweb22-en0029-83-17080	What are the historical trends in corporate tax rates globally over 30 years?
+clueweb22-en0029-83-17080-Q11	clueweb22-en0029-83-17080	What is the role of the OECD in global tax policies?
+clueweb22-en0029-83-17080-Q12	clueweb22-en0029-83-17080	Can Thornton Matheson, a senior fellow at the Tax Policy Center, be considered an expert in global tax policy?
+clueweb22-en0030-87-05450-Q01	clueweb22-en0030-87-05450	What evidence supports the claim that "John Dillermand" normalizes 'locker room culture'?
+clueweb22-en0030-87-05450-Q02	clueweb22-en0030-87-05450	What kind of credibility does the Danish broadcaster, DR, have in developing children's TV shows?
+clueweb22-en0030-87-05450-Q03	clueweb22-en0030-87-05450	What is the reputation of The Guardian for accurate reporting on international news?
+clueweb22-en0030-87-05450-Q04	clueweb22-en0030-87-05450	Did Denmark really launch a TV show about a man with a giant penis?
+clueweb22-en0030-87-05450-Q05	clueweb22-en0030-87-05450	Who is Helen Russell, the author of the article?
+clueweb22-en0030-87-05450-Q06	clueweb22-en0030-87-05450	What are the professional credentials of Anne Lise Marstrand-Jørgensen in the context of children's media?
+clueweb22-en0030-87-05450-Q07	clueweb22-en0030-87-05450	Has the show John Dillermand received support or backlash from child education experts?
+clueweb22-en0030-87-05450-Q08	clueweb22-en0030-87-05450	How does Denmark's #MeToo movement impact public opinion on shows like "John Dillermand"?
+clueweb22-en0030-87-05450-Q09	clueweb22-en0030-87-05450	What is the academic background of Christian Groes at Roskilde University?
+clueweb22-en0030-87-05450-Q10	clueweb22-en0030-87-05450	What are the professional background of Erla Heinesen Højsted, the clinical psychologist who defended the show's content?
+clueweb22-en0030-87-05450-Q11	clueweb22-en0030-87-05450	Has DR previously produced children's content that was controversial or boundary-pushing?
+clueweb22-en0030-87-05450-Q12	clueweb22-en0030-87-05450	Has the show "John Dillermand" faced public criticism?
+clueweb22-en0030-91-11474-Q01	clueweb22-en0030-91-11474	What evidence supports the claim that Russia is preparing for invasion?
+clueweb22-en0030-91-11474-Q02	clueweb22-en0030-91-11474	Is the Atlantic Council a credible source on international affairs?
+clueweb22-en0030-91-11474-Q03	clueweb22-en0030-91-11474	What is the professional background of Andriy Zagorodnyuk?
+clueweb22-en0030-91-11474-Q04	clueweb22-en0030-91-11474	Are there other sources corroborating the claims of Russian forces at the Ukrainian border?
+clueweb22-en0030-91-11474-Q05	clueweb22-en0030-91-11474	Has Russia massed troops near Ukraine as of January 2022?
+clueweb22-en0030-91-11474-Q06	clueweb22-en0030-91-11474	What is the credibility of the Kyiv International Institute of Sociology?
+clueweb22-en0030-91-11474-Q07	clueweb22-en0030-91-11474	How do other major sources report on the Ukraine-Russia conflict? Do they align with points made in the article?
+clueweb22-en0030-91-11474-Q08	clueweb22-en0030-91-11474	Is there data confirming 33% of Ukrainians would resist occupation?
+clueweb22-en0030-91-11474-Q09	clueweb22-en0030-91-11474	What is the track record of the Atlantic Council in providing accurate information on Eastern European conflicts?
+clueweb22-en0030-91-11474-Q10	clueweb22-en0030-91-11474	Do other major news outlets present similar reports on the Russian-Ukrainian crisis?
+clueweb22-en0030-91-11474-Q11	clueweb22-en0030-91-11474	What sources verify Russia's military advantage in missiles and aviation?
+clueweb22-en0030-91-11474-Q12	clueweb22-en0030-91-11474	What are the economic impacts of sanctions on Russia?
+clueweb22-en0031-81-16694-Q01	clueweb22-en0031-81-16694	Is there scientific evidence linking climate change to increased terrorism?
+clueweb22-en0031-81-16694-Q02	clueweb22-en0031-81-16694	Is Julian Pecquet a credible journalist with expertise in climate and security?
+clueweb22-en0031-81-16694-Q03	clueweb22-en0031-81-16694	What is the background of Julian Pecquet, the author of the article?
+clueweb22-en0031-81-16694-Q04	clueweb22-en0031-81-16694	What is the credibility and reputation of The Africa Report among news outlets?
+clueweb22-en0031-81-16694-Q05	clueweb22-en0031-81-16694	What was the evidence provided to link climate change with terrorism and security challenges in the Sahel?
+clueweb22-en0031-81-16694-Q06	clueweb22-en0031-81-16694	What is the historical accuracy of reports by REUTERS, the agency that provided the image for the article?
+clueweb22-en0031-81-16694-Q07	clueweb22-en0031-81-16694	How does the UNFCCC approach climate change differently from the Security Council?
+clueweb22-en0031-81-16694-Q08	clueweb22-en0031-81-16694	Did Russia veto a UN resolution linking climate change to terrorism?
+clueweb22-en0031-81-16694-Q09	clueweb22-en0031-81-16694	Has the UN Security Council discussed climate change's impact on security?
+clueweb22-en0031-81-16694-Q10	clueweb22-en0031-81-16694	What financial support does the US provide to the G5 Sahel?
+clueweb22-en0031-81-16694-Q11	clueweb22-en0031-81-16694	What are the stated reasons for Russia and India opposing the resolution tying climate change to terrorism?
+clueweb22-en0031-81-16694-Q12	clueweb22-en0031-81-16694	What are Ashish Pradhan's qualifications as a senior UN analyst for the International Crisis Group?
+clueweb22-en0033-58-04657-Q01	clueweb22-en0033-58-04657	Is Chinadaily.com.cn a credible source for global news?
+clueweb22-en0033-58-04657-Q02	clueweb22-en0033-58-04657	What is the Treaty on the Non-Proliferation of Nuclear Weapons?
+clueweb22-en0033-58-04657-Q03	clueweb22-en0033-58-04657	Does AUKUS violate international nonproliferation rules?
+clueweb22-en0033-58-04657-Q04	clueweb22-en0033-58-04657	How reliable is the Chinese Academy of Social Sciences as an institution for providing unbiased analysis?
+clueweb22-en0033-58-04657-Q05	clueweb22-en0033-58-04657	Did the US, UK, and Australia publicly commit to uphold nonproliferation obligations within the AUKUS pact?
+clueweb22-en0033-58-04657-Q06	clueweb22-en0033-58-04657	What are the current perspectives of the International Atomic Energy Agency (IAEA) on nuclear nonproliferation?
+clueweb22-en0033-58-04657-Q07	clueweb22-en0033-58-04657	Are ASEAN countries against the AUKUS agreement?
+clueweb22-en0033-58-04657-Q08	clueweb22-en0033-58-04657	How does the IAEA enforce nuclear nonproliferation?
+clueweb22-en0033-58-04657-Q09	clueweb22-en0033-58-04657	What is the stated purpose of the AUKUS trilateral pact?
+clueweb22-en0033-58-04657-Q10	clueweb22-en0033-58-04657	What is the Southeast Asia Nuclear-Weapon-Free Zone Treaty?
+clueweb22-en0033-58-04657-Q11	clueweb22-en0033-58-04657	What is the official stance of the International Atomic Energy Agency on the AUKUS pact?
+clueweb22-en0033-58-04657-Q12	clueweb22-en0033-58-04657	What are the official statements of the US government regarding the AUKUS pact?
+clueweb22-en0036-31-03154-Q01	clueweb22-en0036-31-03154	What is the credibility of Sheera Frenkel in reporting on Middle Eastern conflicts?
+clueweb22-en0036-31-03154-Q02	clueweb22-en0036-31-03154	Is Sheera Frenkel a credible journalist for The New York Times?
+clueweb22-en0036-31-03154-Q03	clueweb22-en0036-31-03154	What measures has WhatsApp implemented to combat misinformation?
+clueweb22-en0036-31-03154-Q04	clueweb22-en0036-31-03154	Does The New York Times maintain a history of credible and reliable reporting?
+clueweb22-en0036-31-03154-Q05	clueweb22-en0036-31-03154	How did TikTok respond to misinformation during the Israeli-Palestinian conflict?
+clueweb22-en0036-31-03154-Q06	clueweb22-en0036-31-03154	Is there evidence that misinformation from influential figures or large follower-base accounts is exacerbating the Israeli-Palestinian conflict?
+clueweb22-en0036-31-03154-Q07	clueweb22-en0036-31-03154	Has misinformation on social media affected the Israeli-Palestinian conflict?
+clueweb22-en0036-31-03154-Q08	clueweb22-en0036-31-03154	What measures has Twitter taken in the past to address misinformation related to the Israeli-Palestinian conflict?
+clueweb22-en0036-31-03154-Q09	clueweb22-en0036-31-03154	What is the history of misinformation campaigns by Iran that Facebook has removed?
+clueweb22-en0036-31-03154-Q10	clueweb22-en0036-31-03154	Did Ofir Gendelman mislead with a 2018 video on Twitter?
+clueweb22-en0036-31-03154-Q11	clueweb22-en0036-31-03154	Are there verifiable reports of fake funerals by Palestinian families?
+clueweb22-en0036-31-03154-Q12	clueweb22-en0036-31-03154	Who is Arieh Kovler and does he have recognized expertise in studying misinformation?
+clueweb22-en0037-89-16256-Q01	clueweb22-en0037-89-16256	Is CBS News a reliable and respected news source for international events?
+clueweb22-en0037-89-16256-Q02	clueweb22-en0037-89-16256	What are the qualifications of Lucy Craft, the author of the article?
+clueweb22-en0037-89-16256-Q03	clueweb22-en0037-89-16256	What are the safe levels for radioactive water discharge according to IAEA?
+clueweb22-en0037-89-16256-Q04	clueweb22-en0037-89-16256	Has Japan officially decided to dump Fukushima water?
+clueweb22-en0037-89-16256-Q05	clueweb22-en0037-89-16256	What are the methods used to filter and dilute the treated radioactive water?
+clueweb22-en0037-89-16256-Q06	clueweb22-en0037-89-16256	Is the filtration technology used at Fukushima proven to be effective?
+clueweb22-en0037-89-16256-Q07	clueweb22-en0037-89-16256	How reliable is the International Atomic Energy Agency (IAEA) in assessing the safety of radioactive water discharge?
+clueweb22-en0037-89-16256-Q08	clueweb22-en0037-89-16256	Does IAEA support Japan's plan to release Fukushima water?
+clueweb22-en0037-89-16256-Q09	clueweb22-en0037-89-16256	What are the potential biases of Chief Cabinet Secretary Katsunobu Kato regarding the Fukushima water discharge plan?
+clueweb22-en0037-89-16256-Q10	clueweb22-en0037-89-16256	What independent reviews exist of Japan's water treatment and release plan?
+clueweb22-en0037-89-16256-Q11	clueweb22-en0037-89-16256	Are there protests against Japan's Fukushima water plan?
+clueweb22-en0037-89-16256-Q12	clueweb22-en0037-89-16256	Is there any evidence of negative impacts the discharged water could have on the Pacific Ocean's ecology?
+clueweb22-en0038-31-06890-Q01	clueweb22-en0038-31-06890	Is Alicia Adamczyk a credible financial journalist?
+clueweb22-en0038-31-06890-Q02	clueweb22-en0038-31-06890	What is the expertise of Alicia Adamczyk, the author of the publication?
+clueweb22-en0038-31-06890-Q03	clueweb22-en0038-31-06890	What is the professional background of Alicia Adamczyk, the author of the article?
+clueweb22-en0038-31-06890-Q04	clueweb22-en0038-31-06890	What evidence supports the claim that retail investors quadrupled GameStop's stock?
+clueweb22-en0038-31-06890-Q05	clueweb22-en0038-31-06890	How reliable is Craig Fehr in providing accurate financial market analysis?
+clueweb22-en0038-31-06890-Q06	clueweb22-en0038-31-06890	What is the reputation of Edward Jones in investment advice?
+clueweb22-en0038-31-06890-Q07	clueweb22-en0038-31-06890	How does r/WallStreetBets influence GameStop's stock prices?
+clueweb22-en0038-31-06890-Q08	clueweb22-en0038-31-06890	Have other financial experts or news outlets reported similar findings about the GameStop stock surge?
+clueweb22-en0038-31-06890-Q09	clueweb22-en0038-31-06890	What are the typical outcomes of a short squeeze in the stock market?
+clueweb22-en0038-31-06890-Q10	clueweb22-en0038-31-06890	Have Elon Musk and Chamath Palihapitiya publicly voiced their support for the GameStop stock surge as the article claims?
+clueweb22-en0038-31-06890-Q11	clueweb22-en0038-31-06890	Does Elon Musk influence GameStop's stock prices?
+clueweb22-en0038-31-06890-Q12	clueweb22-en0038-31-06890	What is the track record of James Royal in offering sound investment advice?
+clueweb22-en0038-53-08041-Q01	clueweb22-en0038-53-08041	What evidence supports that Gabby Petito should have been arrested?
+clueweb22-en0038-53-08041-Q02	clueweb22-en0038-53-08041	What is the credibility of Price City Police Department Captain Brandon Ratcliffe?
+clueweb22-en0038-53-08041-Q03	clueweb22-en0038-53-08041	What is the track record of The Sun in reporting accurate news?
+clueweb22-en0038-53-08041-Q04	clueweb22-en0038-53-08041	Does "All News" have a consistent track record of providing reliable information?
+clueweb22-en0038-53-08041-Q05	clueweb22-en0038-53-08041	Does the 100-page report from Moab City exist?
+clueweb22-en0038-53-08041-Q06	clueweb22-en0038-53-08041	What is the legal process for police probation?
+clueweb22-en0038-53-08041-Q07	clueweb22-en0038-53-08041	How is the Moab City Police Department's credibility rated?
+clueweb22-en0038-53-08041-Q08	clueweb22-en0038-53-08041	What is the record or reputation of Moab City Police Department handling such similar cases?
+clueweb22-en0038-53-08041-Q09	clueweb22-en0038-53-08041	What training do Moab police receive in domestic violence cases?
+clueweb22-en0038-53-08041-Q10	clueweb22-en0038-53-08041	Are there other sources confirming Brian Laundrie as the victim?
+clueweb22-en0038-53-08041-Q11	clueweb22-en0038-53-08041	Is the published report consistent with local law enforcement procedures for handling domestic abuse incidents?
+clueweb22-en0038-53-08041-Q12	clueweb22-en0038-53-08041	What is the historical accuracy of the Moab City Police Department's internal reports?
+clueweb22-en0039-35-10936-Q01	clueweb22-en0039-35-10936	Are reviews by Georgetown University study on bias against young Black girls peer-reviewed?
+clueweb22-en0039-35-10936-Q02	clueweb22-en0039-35-10936	What is the professional background of Kiara Alfonseca, the author of the article?
+clueweb22-en0039-35-10936-Q03	clueweb22-en0039-35-10936	What is the reputation of ABC News in reporting racial issues?
+clueweb22-en0039-35-10936-Q04	clueweb22-en0039-35-10936	What evidence supports the claim that Black girls are "adultified" more than their peers?
+clueweb22-en0039-35-10936-Q05	clueweb22-en0039-35-10936	Are Black girls more likely to face harsh school discipline?
+clueweb22-en0039-35-10936-Q06	clueweb22-en0039-35-10936	What are the qualifications of Michelle Martin, the Bryant family lawyer?
+clueweb22-en0039-35-10936-Q07	clueweb22-en0039-35-10936	Are Columbus police procedures for using lethal force publicly available and verifiable?
+clueweb22-en0039-35-10936-Q08	clueweb22-en0039-35-10936	Can the U.S. Department of Education Office for Civil Rights be considered a reliable source for data on disciplinary actions against Black girls?
+clueweb22-en0039-35-10936-Q09	clueweb22-en0039-35-10936	What are the credentials of Jamilia Blake, who led the Georgetown study?
+clueweb22-en0039-35-10936-Q10	clueweb22-en0039-35-10936	What is the track record of Columbus Mayor Andrew Ginther in addressing police violence?
+clueweb22-en0039-35-10936-Q11	clueweb22-en0039-35-10936	Was Ma'Khia Bryant holding a knife during the police shooting?
+clueweb22-en0039-35-10936-Q12	clueweb22-en0039-35-10936	Are there contradictory studies or opinions challenging the concept of "adultification" of Black girls?
+clueweb22-en0041-58-16005-Q01	clueweb22-en0041-58-16005	Is Amy Gunia a credible journalist with expertise in Southeast Asia?
+clueweb22-en0041-58-16005-Q02	clueweb22-en0041-58-16005	Is there evidence for the military's claim of voting fraud in Myanmar's 2020 election?
+clueweb22-en0041-58-16005-Q03	clueweb22-en0041-58-16005	How reliable is AAPP in reporting Myanmar military killings?
+clueweb22-en0041-58-16005-Q04	clueweb22-en0041-58-16005	Does Lee Morgenbesser from Australia’s Griffith University have credentials that back his expertise on authoritarian politics in Southeast Asia?
+clueweb22-en0041-58-16005-Q05	clueweb22-en0041-58-16005	Did Aung San Suu Kyi defend military actions against Rohingya?
+clueweb22-en0041-58-16005-Q06	clueweb22-en0041-58-16005	How many people have been verified killed by the Myanmar military since the coup?
+clueweb22-en0041-58-16005-Q07	clueweb22-en0041-58-16005	What is the historical accuracy of Mark Farmaner in his advocacy and reporting on Myanmar?
+clueweb22-en0041-58-16005-Q08	clueweb22-en0041-58-16005	Can allegations of the Myanmar military junta’s violence towards protesters be verified by other credible sources?
+clueweb22-en0041-58-16005-Q09	clueweb22-en0041-58-16005	What political standpoints are associated with Time magazine, the publisher of the article?
+clueweb22-en0041-58-16005-Q10	clueweb22-en0041-58-16005	How credible is Thinzar Shunlei Yi as a source on the democracy movement in Myanmar?
+clueweb22-en0041-58-16005-Q11	clueweb22-en0041-58-16005	What role did Aung San Suu Kyi play in the atrocities against the Rohingya?
+clueweb22-en0041-58-16005-Q12	clueweb22-en0041-58-16005	Are reports by the Assistance Association for Political Prisoners reliable?
+clueweb22-en0042-56-04016-Q01	clueweb22-en0042-56-04016	How credible is the Australian Broadcasting Corporation (ABC) as a source of investigative journalism?
+clueweb22-en0042-56-04016-Q02	clueweb22-en0042-56-04016	Is ABC News a credible and reliable news source?
+clueweb22-en0042-56-04016-Q03	clueweb22-en0042-56-04016	How does the article substantiate that the source of the Pandora Papers leak is credible?
+clueweb22-en0042-56-04016-Q04	clueweb22-en0042-56-04016	What evidence supports the claim of 330 politicians hiding wealth offshore?
+clueweb22-en0042-56-04016-Q05	clueweb22-en0042-56-04016	What is the reputation of the International Consortium of Investigative Journalists?
+clueweb22-en0042-56-04016-Q06	clueweb22-en0042-56-04016	What is the credibility of the sources named in the Pandora Papers?
+clueweb22-en0042-56-04016-Q07	clueweb22-en0042-56-04016	How do the Pandora Papers compare to the Panama Papers in scope?
+clueweb22-en0042-56-04016-Q08	clueweb22-en0042-56-04016	What are the qualifications of Elise Worthington, the journalist who authored the article?
+clueweb22-en0042-56-04016-Q09	clueweb22-en0042-56-04016	Can the offshore service providers included in the Pandora leaks be considered legal enterprises?
+clueweb22-en0042-56-04016-Q10	clueweb22-en0042-56-04016	What legal standards govern the use of offshore accounts in Samoa?
+clueweb22-en0042-56-04016-Q11	clueweb22-en0042-56-04016	How reliable are the financial records obtained from the 14 offshore service providers mentioned in the Pandora Papers?
+clueweb22-en0042-56-04016-Q12	clueweb22-en0042-56-04016	Have the Pandora Papers been verified by other credible sources?
+clueweb22-en0042-62-16511-Q01	clueweb22-en0042-62-16511	Is Zack Friedman, the author of the article, considered an expert on student loan policy and financial topics?
+clueweb22-en0042-62-16511-Q02	clueweb22-en0042-62-16511	Has Biden really cancelled $11.5 billion in student loans?
+clueweb22-en0042-62-16511-Q03	clueweb22-en0042-62-16511	What legal authority does Biden have to cancel student loans?
+clueweb22-en0042-62-16511-Q04	clueweb22-en0042-62-16511	What is the track record of the Trump administration's non-binding legal opinions on student loan forgiveness?
+clueweb22-en0042-62-16511-Q05	clueweb22-en0042-62-16511	Are changes to public service loan forgiveness under Biden confirmed?
+clueweb22-en0042-62-16511-Q06	clueweb22-en0042-62-16511	Does the Higher Education Act allow loan cancellation?
+clueweb22-en0042-62-16511-Q07	clueweb22-en0042-62-16511	How is the $11.5 billion student loan cancellation impacting the economic situation?
+clueweb22-en0042-62-16511-Q08	clueweb22-en0042-62-16511	How reliable are Sen. Elizabeth Warren's claims about the president's authority to cancel student loans?
+clueweb22-en0042-62-16511-Q09	clueweb22-en0042-62-16511	What are the criteria for Biden's targeted student loan forgiveness?
+clueweb22-en0042-62-16511-Q10	clueweb22-en0042-62-16511	What evidence supports Nancy Pelosi's claim that only Congress can enact wide-scale student loan cancellation?
+clueweb22-en0042-62-16511-Q11	clueweb22-en0042-62-16511	What is the legal debate on Biden's loan forgiveness power?
+clueweb22-en0042-62-16511-Q12	clueweb22-en0042-62-16511	What is the established credibility of Mentor (mentormoney.com), Friedman’s associated financial organization?
+clueweb22-en0042-80-11368-Q01	clueweb22-en0042-80-11368	Has The Washington Post verified Frances Haugen's claims?
+clueweb22-en0042-80-11368-Q02	clueweb22-en0042-80-11368	What specific laws protect whistleblowers like Frances Haugen?
+clueweb22-en0042-80-11368-Q03	clueweb22-en0042-80-11368	Can the source of the documents, Reed Albergotti, be seen as a competent and objective journalist?
+clueweb22-en0042-80-11368-Q04	clueweb22-en0042-80-11368	What is the reputation of The Washington Post in reporting on technology?
+clueweb22-en0042-80-11368-Q05	clueweb22-en0042-80-11368	Did Frances Haugen legally obtain Facebook documents?
+clueweb22-en0042-80-11368-Q06	clueweb22-en0042-80-11368	Are documents taken by Frances Haugen verified and validated by a third-party entity?
+clueweb22-en0042-80-11368-Q07	clueweb22-en0042-80-11368	What are the qualifications of Reed Albergotti in covering technology issues?
+clueweb22-en0042-80-11368-Q08	clueweb22-en0042-80-11368	What penalties face Facebook employees who leak documents?
+clueweb22-en0042-80-11368-Q09	clueweb22-en0042-80-11368	How credible are the statements issued by Frances Haugen's legal team?
+clueweb22-en0042-80-11368-Q10	clueweb22-en0042-80-11368	What are other sources saying about Frances Haugen?
+clueweb22-en0042-80-11368-Q11	clueweb22-en0042-80-11368	How reliable is Frances Haugen's testimony given her background in the tech industry?
+clueweb22-en0042-80-11368-Q12	clueweb22-en0042-80-11368	How did Frances Haugen access Facebook’s internal documents?
+clueweb22-en0042-97-08467-Q01	clueweb22-en0042-97-08467	Does Marc Lore have a track record for successful urban development or experience in related fields?
+clueweb22-en0042-97-08467-Q02	clueweb22-en0042-97-08467	Has Marc Lore invested in Archer Aviation?
+clueweb22-en0042-97-08467-Q03	clueweb22-en0042-97-08467	What is the credibility of USA Today as a source of information regarding Marc Lore's plans for Telosa?
+clueweb22-en0042-97-08467-Q04	clueweb22-en0042-97-08467	What is Marc Lore's professional background in city planning?
+clueweb22-en0042-97-08467-Q05	clueweb22-en0042-97-08467	What is the concept of "Equitism" as proposed by Marc Lore?
+clueweb22-en0042-97-08467-Q06	clueweb22-en0042-97-08467	What are the potential biases of USA Today in reporting on Marc Lore's Telosa project?
+clueweb22-en0042-97-08467-Q07	clueweb22-en0042-97-08467	Can Will Feuer, the author of this article, be considered a reliable source of business news?
+clueweb22-en0042-97-08467-Q08	clueweb22-en0042-97-08467	Has Marc Lore's "Equitism" model been previously implemented or tested?
+clueweb22-en0042-97-08467-Q09	clueweb22-en0042-97-08467	Does the term "Equitism", proposed by Lore, have any rigorous academic or practical basis?
+clueweb22-en0042-97-08467-Q10	clueweb22-en0042-97-08467	Are there any expert reviews on Telosa's urban planning model?
+clueweb22-en0042-97-08467-Q11	clueweb22-en0042-97-08467	How reliable is the information provided by the City of Telosa's website regarding the project's feasibility?
+clueweb22-en0042-97-08467-Q12	clueweb22-en0042-97-08467	How does Telosa plan to ensure its diversity and inclusion criteria are fair?
+clueweb22-en0044-17-02501-Q01	clueweb22-en0044-17-02501	What evidence supports Merck's claim of a 30% reduction in COVID hospitalizations?
+clueweb22-en0044-17-02501-Q02	clueweb22-en0044-17-02501	Is the FDA's authorization of Merck's COVID-19 pill reported by other credible sources?
+clueweb22-en0044-17-02501-Q03	clueweb22-en0044-17-02501	Is Reuters a trustworthy source of news and information?
+clueweb22-en0044-17-02501-Q04	clueweb22-en0044-17-02501	What is the credibility of the U.S. Food and Drug Administration (FDA) in authorizing new drugs?
+clueweb22-en0044-17-02501-Q05	clueweb22-en0044-17-02501	How does Paxlovid reduce COVID hospitalizations by 90%?
+clueweb22-en0044-17-02501-Q06	clueweb22-en0044-17-02501	Were there any conflicting reports about the effectiveness of Merck's drug, molnupiravir?
+clueweb22-en0044-17-02501-Q07	clueweb22-en0044-17-02501	Are the side effects of Merck's COVID-19 pill accurately reported?
+clueweb22-en0044-17-02501-Q08	clueweb22-en0044-17-02501	How reliable is Merck and Ridgeback's clinical trial data showing a 30% reduction in hospitalizations?
+clueweb22-en0044-17-02501-Q09	clueweb22-en0044-17-02501	Is molnupiravir effective against the Omicron variant of COVID-19?
+clueweb22-en0044-17-02501-Q10	clueweb22-en0044-17-02501	Is the person quoted, Dr. Gregory Poland of the Mayo Clinic, an expert in the topic discussed?
+clueweb22-en0044-17-02501-Q11	clueweb22-en0044-17-02501	What are the FDA's specific concerns about molnupiravir during pregnancy?
+clueweb22-en0044-17-02501-Q12	clueweb22-en0044-17-02501	What is the scientific consensus on the safety of molnupiravir during pregnancy?
+clueweb22-en0044-37-14207-Q01	clueweb22-en0044-37-14207	Are there other reports corroborating CNN's account of the relationship between President Joe Biden and Vice President Kamala Harris?
+clueweb22-en0044-37-14207-Q02	clueweb22-en0044-37-14207	Is CNN's report on Biden-Harris tensions credible?
+clueweb22-en0044-37-14207-Q03	clueweb22-en0044-37-14207	What evidence supports the claim of dysfunction between Biden and Harris?
+clueweb22-en0044-37-14207-Q04	clueweb22-en0044-37-14207	What is the credibility of CNN as a source for reporting on internal White House dynamics?
+clueweb22-en0044-37-14207-Q05	clueweb22-en0044-37-14207	Are other reports confirming that the Biden administration has allegedly failed to curtail partisan attacks on Vice President Kamala Harris?
+clueweb22-en0044-37-14207-Q06	clueweb22-en0044-37-14207	How does CNN verify its reports on White House internal dynamics?
+clueweb22-en0044-37-14207-Q07	clueweb22-en0044-37-14207	How reliable is Paul Bois in reporting political news?
+clueweb22-en0044-37-14207-Q08	clueweb22-en0044-37-14207	What is Kamala Harris's current approval rating?
+clueweb22-en0044-37-14207-Q09	clueweb22-en0044-37-14207	Has Joe Biden announced he won't seek reelection?
+clueweb22-en0044-37-14207-Q10	clueweb22-en0044-37-14207	What specific roles has Biden publicly assigned to Harris?
+clueweb22-en0044-37-14207-Q11	clueweb22-en0044-37-14207	What evidence supports the claim that Kamala Harris's approval rating is lower than Joe Biden's 37.8 percent?
+clueweb22-en0044-37-14207-Q12	clueweb22-en0044-37-14207	Who are the "key West Wing aides" cited in the article? Do they have credibility?
+clueweb22-en0045-73-00403-Q01	clueweb22-en0045-73-00403	Is Gregory Shupak a credible source on Afghan war topics?
+clueweb22-en0045-73-00403-Q02	clueweb22-en0045-73-00403	What is the credibility of FAIR.org, the original publisher of Gregory Shupak's article?
+clueweb22-en0045-73-00403-Q03	clueweb22-en0045-73-00403	What evidence supports the claim of U.S. newspapers trivializing South Asian lives?
+clueweb22-en0045-73-00403-Q04	clueweb22-en0045-73-00403	What is Gregory Shupak's expertise and background in political commentary and media analysis?
+clueweb22-en0045-73-00403-Q05	clueweb22-en0045-73-00403	Are the sources cited by the author, such as Human Rights Watch and the UN Assistance Mission in Afghanistan (UNAMA), credible?
+clueweb22-en0045-73-00403-Q06	clueweb22-en0045-73-00403	Is the portrayal of U.S. motives in Afghanistan by major dailies factually correct?
+clueweb22-en0045-73-00403-Q07	clueweb22-en0045-73-00403	Did major US newspapers ignore Afghan civilian casualties?
+clueweb22-en0045-73-00403-Q08	clueweb22-en0045-73-00403	How reliable is UNAMA data on Afghan civilian casualties?
+clueweb22-en0045-73-00403-Q09	clueweb22-en0045-73-00403	What is Salon.com's bias in political reporting?
+clueweb22-en0045-73-00403-Q10	clueweb22-en0045-73-00403	What sources confirm the U.S. using bombs in Afghanistan post-2014?
+clueweb22-en0045-73-00403-Q11	clueweb22-en0045-73-00403	How has the U.S. policy on Afghanistan been critiqued by other countries and international bodies?
+clueweb22-en0045-73-00403-Q12	clueweb22-en0045-73-00403	What is the credibility of the Guardian's report on U.S. military actions in Afghanistan?

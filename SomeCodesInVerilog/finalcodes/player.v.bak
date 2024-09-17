@@ -1,0 +1,140 @@
+module player (
+    input wire clk,
+    input wire reset,
+    input wire [7:0] command,
+    output wire [1023:0] song
+);
+    reg [2:0] state;
+    localparam PLAY = 8'bxxxxxx10, 
+              PAUSE = 8'bxxxxxx01,
+              NEXT = 8'bxxxxxx00,
+              PREVIOUS = 8'bxxxxxx11;
+    wire [3:0] cmd;
+
+///
+    assign cmd = {2'b00, command[1:0]}; 
+
+    player_control player_fsm (
+        .Clock(clk),
+        .Reset(reset),
+        .cmd(cmd),
+        .State(state)
+    );
+
+
+    player_datapath player_dp (
+        .Clock(clk),
+        .Reset(reset),
+        .State(state),
+        .Song(song)
+    );
+
+endmodule
+
+////////////////////////////////////////////////////////////
+ 
+module player_control (
+	input Clock,
+	input Reset,
+	input [3:0] cmd,
+	output reg p1, p2, p3
+	);
+	localparam Start = 3'd0, Play1 = 3'd1, Pause1 = 3'd2, Play2 = 3'd3, Pause2 = 3'd4, Play3 = 3'd5, End = 3'd6;
+	reg [2 : 0] CurState, NextState;
+	assign CurState = Start;
+	always @(*) begin
+		case (CurState) // rules for selector: [prev, next, play, pause]
+			Start : begin
+				case (cmd)
+					4'b0010 : NextState = Play1;
+					4'b0100 : NextState = Play1;
+					default : NextState = Start;
+				endcase
+			end
+			Play1 : begin
+				case (cmd)
+					4'b0001 : NextState = Pause1;
+					4'b0100 : NextState = Play2;
+					default : NextState = Play1;
+				endcase
+			end
+			Pause1 : begin
+				case (cmd)
+					4'b0010 : NextState = Play1;
+					4'b0100 : NextState = Play2;
+					default : NextState = Pause1;
+				endcase
+			end
+			Play2 : begin
+				case (cmd)
+					4'b0001 : NextState = Pause2;
+					4'b0100 : NextState = Play3;
+					4'b1000 : NextState = Play1;
+					default : NextState = Play2;
+				endcase
+			end
+			Pause2 : begin
+				case (cmd)
+					4'b0010 : NextState = Play2;
+					4'b0100 : NextState = Play3;
+					4'b1000 : NextState = Play1;
+					default : NextState = Play2;
+				endcase
+			end
+			Play3 : begin
+				case (cmd)
+					4'b0001 : NextState = Pause3;
+					4'b1000 : NextState = Play2;
+					default : NextState = Play3;
+				endcase
+			end
+			Pause3 : begin
+				case (cmd)
+					4'b0010 : NextState = Play3;
+					4'b1000 : NextState = Play2;
+					4'b0100 : NextState = End;
+					default : NextState = Play3;
+				endcase
+			end
+			End : begin
+				case (cmd)
+					4'b1000 : NextState = Play3;
+					default : NextState = End;
+				endcase
+			end
+			default : NextState = Start;
+		endcase
+	end
+	always @(posedge Clock) begin
+		if (Reset)
+			CurState = Start;
+		else
+			CurState <= NextState;
+	end
+
+endmodule
+////////////////////////////////////
+module player_datapath(
+    input wire Clock,
+    input wire Reset,
+    input wire [2:0] State,
+    output reg [1023:0] Song
+    // Additional ports for memory interfacing and song data management
+);
+
+// Define your internal registers and logic
+// ...
+
+always @(posedge Clock) begin
+    if (Reset) begin
+        // Reset logic
+    end else begin
+        case(State)
+            // Define logic for each state
+            // e.g., loading song data, updating output, etc.
+            // ...
+        endcase
+    end
+end
+
+endmodule

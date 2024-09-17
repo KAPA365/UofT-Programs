@@ -1,0 +1,81 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "ALUout[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUout[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUout[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUout[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUout[4]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUout[5]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUout[6]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUout[7]",
+					"strict" : false
+				},
+				{
+					"name" : "A[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Function[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Function[0]",
+					"strict" : false
+				},
+				{
+					"name" : "B[0]",
+					"strict" : false
+				},
+				{
+					"name" : "A[1]",
+					"strict" : false
+				},
+				{
+					"name" : "B[1]",
+					"strict" : false
+				},
+				{
+					"name" : "A[2]",
+					"strict" : false
+				},
+				{
+					"name" : "B[2]",
+					"strict" : false
+				},
+				{
+					"name" : "A[3]",
+					"strict" : false
+				},
+				{
+					"name" : "B[3]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

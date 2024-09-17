@@ -1,0 +1,15 @@
+
+State Machine - |top|keyboard_press_driver:keyboard_driver|count
+Name count.11 count.10 count.01 count.00 
+count.00 0 0 0 0 
+count.01 0 0 1 1 
+count.10 0 1 0 1 
+count.11 1 0 0 1 
+
+State Machine - |top|player:player_inst|player_control:control|CurState
+Name CurState.PLAYPREVIOUS CurState.PLAYNEXT CurState.PAUSE CurState.PLAY CurState.LOAD 
+CurState.LOAD 0 0 0 0 0 
+CurState.PLAY 0 0 0 1 1 
+CurState.PAUSE 0 0 1 0 1 
+CurState.PLAYNEXT 0 1 0 0 1 
+CurState.PLAYPREVIOUS 1 0 0 0 1 

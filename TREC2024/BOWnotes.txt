@@ -1,0 +1,7 @@
+This program aims to utilize pandas to extract the 'article' column as input data, then generate a BAG OF WORDS count using NLP model spacy.
+The "en_core_web_sm" model includes a tokenizer, part-of-speech tagger, named entity recognizer, used earlier.
+The function bow_count tokenizes the text and remove stop words / punctuation.
+A counter then counts the tokens.
+sample I/O:
+This is a sample text to demonstrate bag-of-words counting with SpaCy.
+Counter({'sample': 1, 'text': 1, 'demonstrate': 1, 'bag': 1, 'words': 1, 'counting': 1, 'SpaCy': 1})
