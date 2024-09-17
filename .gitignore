@@ -1,0 +1,21 @@
+# Logs
+*.log
+
+# Node.js
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+*.exe
+
+# IDEs
+.vscode/
+.idea/
+*.swp
