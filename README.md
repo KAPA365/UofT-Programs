@@ -62,5 +62,3 @@ Gesture-controlled game system powered by:
 As a Computer Engineering student passionate about AI, embedded systems, and systems programming, I’ve built real-time tools, experimented with neural networks, and engineered hardware-software integrated systems. This repository reflects the depth and breadth of my academic training and side projects.
 
 ---
-
-Let me know if you want me to generate a `README.md` file to drop directly into the repo!
