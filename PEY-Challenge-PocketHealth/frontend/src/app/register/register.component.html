@@ -6,20 +6,42 @@
 
   <!-- Content -->
   <div class="form-container">
-    <form (ngSubmit)="onFormSubmit(form)" #form="ngForm">
+    <!-- disable button until valid -->
+    <form (ngSubmit)="onFormSubmit(form)" #form="ngForm" novalidate>
       <!-- Input Fields -->
+      <!-- name validation -->
       <div class="input-row">
         <label for="name">Name</label>
-        <input ngModel type="text" name="name" class="input-field" placeholder="Name" [autofocus]>
+        <input ngModel type="text" name="name" class="input-field" placeholder="Name" required [autofocus]
+          #nameRef="ngModel">
+        <small class="error" *ngIf="nameRef.invalid && nameRef.touched">
+          Name is required.
+        </small>
       </div>
+
+      <!-- email validation -->
       <div class="input-row">
         <label for="email">Email</label>
-        <input ngModel name="email" type="email" class="input-field" placeholder="Email">
+        <input ngModel name="email" type="email" class="input-field" placeholder="Email" required email
+          #emailRef="ngModel">
+        <small class="error" *ngIf="emailRef.invalid && emailRef.touched">
+          A valid email is required.
+        </small>
+      </div>
+
+      <!-- color added + validation -->
+      <div class="input-row">
+        <label for="color">Favourite Colour</label>
+        <input ngModel name="color" type="text" class="input-field" placeholder="e.g. Blue" minlength="3" maxlength="30"
+          #colorRef="ngModel">
+        <small class="error" *ngIf="colorRef.invalid && colorRef.touched">
+          Colour must be between 3 and 30 characters.
+        </small>
       </div>
 
       <!-- Button -->
       <div class="button-row">
-        <button class="btn primary-btn" type="submit">
+        <button class="btn primary-btn" type="submit" [disabled]="form.invalid">
           Register
         </button>
       </div>

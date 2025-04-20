@@ -7,10 +7,12 @@ import { AppComponent } from './app.component';
 import { RegisterComponent } from './register/register.component';
 import { HttpClientModule } from '@angular/common/http';
 
+import { HomeComponent } from './home/home.component'; // get home component
 @NgModule({
   declarations: [
     AppComponent,
     RegisterComponent,
+    HomeComponent, // ran ng generate home
   ],
   imports: [
     FormsModule,

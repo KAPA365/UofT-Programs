@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: 'https://api.challenge.pockethealth:8080',
+  apiUrl: 'https://api.challenge.pockethealth:80', // not used but still changed
 };

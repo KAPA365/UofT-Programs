@@ -19,11 +19,17 @@ export class RegisterComponent implements OnInit {
   onFormSubmit(form: NgForm) {
     const name = form.value.name;
     const email = form.value.email;
+    const color = form.value.color; // color from form
 
-    this.userService.postRegister(name, email).subscribe(() => {
+    this.userService.postRegister(name, email, color).subscribe((response: any) => { // added color
       // Once we've received a response, take the user to the home page
-      this.router.navigateByUrl('/home');
+      this.router.navigate(['/home'], { // removed byurl and added params
+        queryParams: {
+          name: name,
+          userId: response.user_id,
+          color: color
+        }
+      });
     })
   }
-
 }

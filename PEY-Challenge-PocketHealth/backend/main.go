@@ -4,13 +4,12 @@ import (
 	"log"
 	"net/http"
 	"pockethealth/internchallenge/pkg/user"
-
 	"github.com/gorilla/handlers"
 	"github.com/gorilla/mux"
 	"github.com/urfave/negroni"
 )
 
-var LISTENING_PORT = "8080"
+var LISTENING_PORT = "80" // changed from 8080
 var ALLOWED_ORIGINS = []string{"http://localhost:4200", "https://localhost:4200", "https://localhost", "https://127.0.0.1:4200", "http://127.0.0.1:4200", "https://127.0.0.1"}
 var ALLOWED_HEADERS = []string{"Accept", "Content-type"}
 var ALLOWED_METHODS = []string{"GET", "POST", "PUT", "DELETE", "OPTIONS"}

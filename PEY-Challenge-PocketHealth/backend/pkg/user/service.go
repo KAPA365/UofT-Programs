@@ -15,9 +15,9 @@ func NewUserApiService() UserApiService {
 }
 
 // PostRegister - Register a User
-func (s UserApiService) PostRegister(ctx context.Context, name string, email string) (string, error) {
+func (s UserApiService) PostRegister(ctx context.Context, name string, email string, color string) (string, error) {
 	// save user to datastore
-	userId, err := datastore.CreateUser(ctx, name, email)
+	userId, err := datastore.CreateUser(ctx, name, email, color) // added
 	if err != nil {
 		log.Printf("error creating user: %q", err.Error())
 		return "", err
@@ -25,5 +25,5 @@ func (s UserApiService) PostRegister(ctx context.Context, name string, email str
 	log.Printf("created user with id: %s\n", userId)
 
 	// return the user id
-	return "", err
+	return userId, nil // fixed the bug
 }

@@ -32,6 +32,7 @@ func (c UserApiController) Routes() router.Routes {
 type PostRegisterBody struct {
 	Name  string `json:"name"`
 	Email string `json:"email"`
+	Color string `json:"color"` // added new field
 }
 
 type PostRegisterResponse struct {
@@ -48,7 +49,7 @@ func (c UserApiController) PostRegister(w http.ResponseWriter, r *http.Request) 
 	}
 
 	// call service
-	userId, err := c.service.PostRegister(r.Context(), data.Name, data.Email)
+	userId, err := c.service.PostRegister(r.Context(), data.Name, data.Email, data.Color) // added new field
 	if err != nil {
 		panic(err)
 	}

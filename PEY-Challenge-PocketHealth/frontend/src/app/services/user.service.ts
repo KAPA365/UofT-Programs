@@ -26,12 +26,13 @@ export class UserService {
 
   /* Functions to send HTTP requests */
 
-  postRegister(name: string, email: string) {
+  postRegister(name: string, email: string, color: string) { // color added
     const url = `${environment.apiUrl}/register`;
 
     const body = {
       name,
       email,
+      color // new
     };
 
     return this.http.post<{ user_id: string }>(url, JSON.stringify(body))
